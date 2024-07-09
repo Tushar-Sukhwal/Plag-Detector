@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>User Contests</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        padding: 20px;
+      }
+      .user-card {
+        border-radius: 8px;
+        box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+        margin-bottom: 20px;
+        padding: 20px;
+        cursor: pointer;
+      }
+      .user-card h2 {
+        margin-top: 0;
+      }
+      .contest-list {
+        list-style: none;
+        padding: 0;
+        display: none; /* Hide initially */
+      }
+      .contest-item {
+        margin-bottom: 10px;
+        padding: 10px;
+        border-radius: 4px;
+        background-color: #e0e0e0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+      .cheated-profile {
+        background-color: #f8d7da; /* Red background */
+      }
+      .non-cheated-profile {
+        background-color: #d4edda; /* Green background */
+      }
+      .cheated {
+        color: red;
+        font-weight: bold;
+      }
+      .non-cheated {
+        color: green;
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app"></div>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        const data = [
+          {
+            userID: "ayushk22",
+            noOfSkipped: 0,
+            contests: [],
+            noOfNonCheated: 0,
+            noOfCheated: 0,
+          },
+          {
+            userID: "Tushars_07",
+            noOfSkipped: 0,
+            contests: [],
+            noOfNonCheated: 0,
+            noOfCheated: 0,
+          },
+          {
+            userID: "Maurya30",
+            noOfSkipped: 0,
+            contests: [],
+            noOfNonCheated: 0,
+            noOfCheated: 0,
+          },
+          {
+            userID: "TheReal_Slim",
+            noOfSkipped: 0,
+            contests: [],
+            noOfNonCheated: 0,
+            noOfCheated: 0,
+          },
+          {
+            userID: "roronoa_2z",
+            noOfSkipped: 0,
+            contests: [
+              {
+                contestId: 1978,
+                cheated: true,
+              },
+            ],
+            noOfNonCheated: 0,
+            noOfCheated: 1,
+          },
+          {
+            userID: "mainak13",
+            noOfSkipped: 0,
+            contests: [
+              {
+                contestId: 1923,
+                cheated: true,
+              },
+            ],
+            noOfNonCheated: 0,
+            noOfCheated: 1,
+          },
+          {
+            userID: "KartevSumit",
+            noOfSkipped: 0,
+            contests: [],
+            noOfNonCheated: 0,
+            noOfCheated: 0,
+          },
+          {
+            userID: "meetjpatel017",
+            noOfSkipped: 0,
+            contests: [
+              {
+                contestId: 1916,
+                cheated: true,
+              },
+              {
+                contestId: 1950,
+                cheated: true,
+              },
+            ],
+            noOfNonCheated: 0,
+            noOfCheated: 2,
+          },
+          {
+            userID: "noAnya",
+            noOfSkipped: 0,
+            contests: [
+              {
+                contestId: 1978,
+                cheated: false,
+              },
+            ],
+            noOfNonCheated: 1,
+            noOfCheated: 0,
+          },
+          {
+            userID: "keshav_.agg",
+            noOfSkipped: 0,
+            contests: [],
+            noOfNonCheated: 0,
+            noOfCheated: 0,
+          },
+          {
+            userID: "akkshit_19",
+            noOfSkipped: 0,
+            contests: [],
+            noOfNonCheated: 0,
+            noOfCheated: 0,
+          },
+          {
+            userID: "dp177",
+            noOfSkipped: 0,
+            contests: [],
+            noOfNonCheated: 0,
+            noOfCheated: 0,
+          },
+          {
+            userID: "kartik308",
+            noOfSkipped: 0,
+            contests: [],
+            noOfNonCheated: 0,
+            noOfCheated: 0,
+          },
+          {
+            userID: "_kushagragarg",
+            noOfSkipped: 0,
+            contests: [],
+            noOfNonCheated: 0,
+            noOfCheated: 0,
+          },
+          {
+            userID: "kritic1329",
+            noOfSkipped: 0,
+            contests: [
+              {
+                contestId: 1926,
+                cheated: true,
+              },
+            ],
+            noOfNonCheated: 0,
+            noOfCheated: 1,
+          }
+        ];
+
+        function renderUsers(data) {
+          // Sort users based on noOfCheated in descending order
+          data.sort((a, b) => b.noOfCheated - a.noOfCheated);
+
+          const app = document.getElementById("app");
+          app.innerHTML = ""; // Clear previous content
+
+          data.forEach((user) => {
+            const userCard = document.createElement("div");
+            userCard.classList.add("user-card");
+            userCard.classList.add(
+              user.noOfCheated > 0 ? "cheated-profile" : "non-cheated-profile"
+            );
+
+            const heading = document.createElement("h2");
+            heading.textContent = `User: ${user.userID}`;
+            userCard.appendChild(heading);
+
+            const skippedInfo = document.createElement("p");
+            skippedInfo.textContent = `Skipped Submissions: ${user.noOfSkipped}`;
+            userCard.appendChild(skippedInfo);
+
+            const contestList = document.createElement("ul");
+            contestList.classList.add("contest-list");
+
+            user.contests.forEach((contest) => {
+              const contestItem = document.createElement("li");
+              contestItem.classList.add("contest-item");
+              contestItem.textContent = `Contest ID: ${contest.contestId}`;
+              if (contest.cheated) {
+                contestItem.classList.add("cheated");
+                contestItem.textContent += " - Cheated";
+              } else {
+                contestItem.classList.add("non-cheated");
+                contestItem.textContent += " - Not Cheated";
+              }
+              contestList.appendChild(contestItem);
+            });
+
+            userCard.appendChild(contestList);
+
+            const summary = document.createElement("p");
+            summary.innerHTML = `No. of Cheated Contests: ${user.noOfCheated}<br>No. of Non-Cheated Contests: ${user.noOfNonCheated}`;
+            userCard.appendChild(summary);
+
+            // Toggle display of contest list on user card click
+            userCard.addEventListener("click", () => {
+              contestList.style.display =
+                contestList.style.display === "none" ? "block" : "none";
+            });
+
+            app.appendChild(userCard);
+          });
+        }
+
+        // Call renderUsers with the initialized data
+        renderUsers(data);
+      });
+    </script>
+  </body>
+</html>
