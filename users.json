@@ -1,0 +1,5588 @@
+[
+  {
+    "userID": "ayushk22",
+    "skippedContests": []
+  },
+  {
+    "userID": "Tushars_07",
+    "skippedContests": []
+  },
+  {
+    "userID": "Maurya30",
+    "skippedContests": []
+  },
+  {
+    "userID": "TheReal_Slim",
+    "skippedContests": []
+  },
+  {
+    "userID": "roronoa_2z",
+    "skippedContests": [
+      {
+        "contestId": 1978,
+        "submissions": [
+          {
+            "submissionId": 266033799,
+            "verdict": "SKIPPED",
+            "time": 1718534334
+          },
+          {
+            "submissionId": 266011435,
+            "verdict": "SKIPPED",
+            "time": 1718531634
+          },
+          {
+            "submissionId": 266010168,
+            "verdict": "SKIPPED",
+            "time": 1718531504
+          },
+          {
+            "submissionId": 265983882,
+            "verdict": "SKIPPED",
+            "time": 1718529340
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "mainak13",
+    "skippedContests": [
+      {
+        "contestId": 1923,
+        "submissions": [
+          {
+            "submissionId": 262835680,
+            "verdict": "OK",
+            "time": 1716791540
+          },
+          {
+            "submissionId": 262834574,
+            "verdict": "WRONG_ANSWER",
+            "time": 1716790867
+          },
+          {
+            "submissionId": 262834417,
+            "verdict": "WRONG_ANSWER",
+            "time": 1716790767
+          },
+          {
+            "submissionId": 247901630,
+            "verdict": "SKIPPED",
+            "time": 1708699549
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "KartevSumit",
+    "skippedContests": []
+  },
+  {
+    "userID": "meetjpatel017",
+    "skippedContests": [
+      {
+        "contestId": 1916,
+        "submissions": [
+          {
+            "submissionId": 255524186,
+            "verdict": "OK",
+            "time": 1712512506
+          },
+          {
+            "submissionId": 239884694,
+            "verdict": "OK",
+            "time": 1704113341
+          },
+          {
+            "submissionId": 239707540,
+            "verdict": "SKIPPED",
+            "time": 1703954139
+          },
+          {
+            "submissionId": 239707149,
+            "verdict": "SKIPPED",
+            "time": 1703954093
+          },
+          {
+            "submissionId": 239696610,
+            "verdict": "SKIPPED",
+            "time": 1703952852
+          },
+          {
+            "submissionId": 239682109,
+            "verdict": "SKIPPED",
+            "time": 1703951372
+          },
+          {
+            "submissionId": 239672406,
+            "verdict": "SKIPPED",
+            "time": 1703950546
+          },
+          {
+            "submissionId": 239659675,
+            "verdict": "SKIPPED",
+            "time": 1703949652
+          },
+          {
+            "submissionId": 239657756,
+            "verdict": "SKIPPED",
+            "time": 1703949540
+          }
+        ]
+      },
+      {
+        "contestId": 1950,
+        "submissions": [
+          {
+            "submissionId": 253778711,
+            "verdict": "SKIPPED",
+            "time": 1711641851
+          },
+          {
+            "submissionId": 253706551,
+            "verdict": "SKIPPED",
+            "time": 1711638696
+          },
+          {
+            "submissionId": 253673703,
+            "verdict": "SKIPPED",
+            "time": 1711637647
+          },
+          {
+            "submissionId": 253652001,
+            "verdict": "SKIPPED",
+            "time": 1711637241
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "noAnya",
+    "skippedContests": [
+      {
+        "contestId": 1978,
+        "submissions": [
+          {
+            "submissionId": 266065697,
+            "verdict": "OK",
+            "time": 1718544190
+          },
+          {
+            "submissionId": 266065032,
+            "verdict": "OK",
+            "time": 1718543876
+          },
+          {
+            "submissionId": 266015242,
+            "verdict": "OK",
+            "time": 1718532044
+          },
+          {
+            "submissionId": 266012662,
+            "verdict": "WRONG_ANSWER",
+            "time": 1718531757
+          },
+          {
+            "submissionId": 265977281,
+            "verdict": "OK",
+            "time": 1718528968
+          },
+          {
+            "submissionId": 265976576,
+            "verdict": "SKIPPED",
+            "time": 1718528937
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "keshav_.agg",
+    "skippedContests": []
+  },
+  {
+    "userID": "akkshit_19",
+    "skippedContests": []
+  },
+  {
+    "userID": "dp177",
+    "skippedContests": []
+  },
+  {
+    "userID": "kartik308",
+    "skippedContests": []
+  },
+  {
+    "userID": "_kushagragarg",
+    "skippedContests": []
+  },
+  {
+    "userID": "kritic1329",
+    "skippedContests": [
+      {
+        "contestId": 1926,
+        "submissions": [
+          {
+            "submissionId": 247528669,
+            "verdict": "OK",
+            "time": 1708455572
+          },
+          {
+            "submissionId": 247528532,
+            "verdict": "OK",
+            "time": 1708455501
+          },
+          {
+            "submissionId": 247433754,
+            "verdict": "WRONG_ANSWER",
+            "time": 1708410135
+          },
+          {
+            "submissionId": 247433510,
+            "verdict": "COMPILATION_ERROR",
+            "time": 1708410000
+          },
+          {
+            "submissionId": 247433097,
+            "verdict": "WRONG_ANSWER",
+            "time": 1708409796
+          },
+          {
+            "submissionId": 247432900,
+            "verdict": "WRONG_ANSWER",
+            "time": 1708409699
+          },
+          {
+            "submissionId": 247419142,
+            "verdict": "OK",
+            "time": 1708399731
+          },
+          {
+            "submissionId": 247247322,
+            "verdict": "SKIPPED",
+            "time": 1708353937
+          },
+          {
+            "submissionId": 247224639,
+            "verdict": "SKIPPED",
+            "time": 1708353417
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "Keshav_Laddha",
+    "skippedContests": []
+  },
+  {
+    "userID": "shantanu1283",
+    "skippedContests": []
+  },
+  {
+    "userID": "Bitan_09",
+    "skippedContests": []
+  },
+  {
+    "userID": "anuragtomar10",
+    "skippedContests": []
+  },
+  {
+    "userID": "LycanAlan",
+    "skippedContests": []
+  },
+  {
+    "userID": "jeenius69",
+    "skippedContests": []
+  },
+  {
+    "userID": "Mg718",
+    "skippedContests": [
+      {
+        "contestId": 1926,
+        "submissions": [
+          {
+            "submissionId": 247350422,
+            "verdict": "SKIPPED",
+            "time": 1708359994
+          },
+          {
+            "submissionId": 247341700,
+            "verdict": "SKIPPED",
+            "time": 1708359238
+          },
+          {
+            "submissionId": 247299265,
+            "verdict": "SKIPPED",
+            "time": 1708356260
+          },
+          {
+            "submissionId": 247271432,
+            "verdict": "SKIPPED",
+            "time": 1708354830
+          }
+        ]
+      },
+      {
+        "contestId": 1951,
+        "submissions": [
+          {
+            "submissionId": 255332349,
+            "verdict": "SKIPPED",
+            "time": 1712420710
+          },
+          {
+            "submissionId": 255313061,
+            "verdict": "SKIPPED",
+            "time": 1712418337
+          },
+          {
+            "submissionId": 255300962,
+            "verdict": "SKIPPED",
+            "time": 1712417149
+          },
+          {
+            "submissionId": 255291199,
+            "verdict": "SKIPPED",
+            "time": 1712416324
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "vedrathavi",
+    "skippedContests": []
+  },
+  {
+    "userID": "big_foot05",
+    "skippedContests": [
+      {
+        "contestId": 1984,
+        "submissions": [
+          {
+            "submissionId": 265091381,
+            "verdict": "OK",
+            "time": 1718037978
+          },
+          {
+            "submissionId": 265090641,
+            "verdict": "OK",
+            "time": 1718037632
+          },
+          {
+            "submissionId": 265088350,
+            "verdict": "OK",
+            "time": 1718036700
+          },
+          {
+            "submissionId": 264957394,
+            "verdict": "SKIPPED",
+            "time": 1717953475
+          },
+          {
+            "submissionId": 264953672,
+            "verdict": "SKIPPED",
+            "time": 1717952681
+          },
+          {
+            "submissionId": 264945958,
+            "verdict": "SKIPPED",
+            "time": 1717951244
+          },
+          {
+            "submissionId": 264941867,
+            "verdict": "SKIPPED",
+            "time": 1717950575
+          },
+          {
+            "submissionId": 264919705,
+            "verdict": "SKIPPED",
+            "time": 1717947699
+          },
+          {
+            "submissionId": 264912528,
+            "verdict": "SKIPPED",
+            "time": 1717946973
+          },
+          {
+            "submissionId": 264883995,
+            "verdict": "SKIPPED",
+            "time": 1717944821
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "aniketaslaliya",
+    "skippedContests": [
+      {
+        "contestId": 1926,
+        "submissions": [
+          {
+            "submissionId": 247323846,
+            "verdict": "SKIPPED",
+            "time": 1708357858
+          },
+          {
+            "submissionId": 247308665,
+            "verdict": "SKIPPED",
+            "time": 1708356817
+          },
+          {
+            "submissionId": 247234288,
+            "verdict": "SKIPPED",
+            "time": 1708353560
+          }
+        ]
+      },
+      {
+        "contestId": 1927,
+        "submissions": [
+          {
+            "submissionId": 255575517,
+            "verdict": "OK",
+            "time": 1712556324
+          },
+          {
+            "submissionId": 249398353,
+            "verdict": "OK",
+            "time": 1709438223
+          },
+          {
+            "submissionId": 245215221,
+            "verdict": "SKIPPED",
+            "time": 1707237751
+          },
+          {
+            "submissionId": 245158623,
+            "verdict": "SKIPPED",
+            "time": 1707233898
+          },
+          {
+            "submissionId": 245138458,
+            "verdict": "SKIPPED",
+            "time": 1707232875
+          },
+          {
+            "submissionId": 245100457,
+            "verdict": "SKIPPED",
+            "time": 1707231367
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "Boltghostkartik",
+    "skippedContests": []
+  },
+  {
+    "userID": "Pubby_2005",
+    "skippedContests": []
+  },
+  {
+    "userID": "gagan20042004",
+    "skippedContests": []
+  },
+  {
+    "userID": "Kavish_Jain19",
+    "skippedContests": []
+  },
+  {
+    "userID": "SOHAM160",
+    "skippedContests": [
+      {
+        "contestId": 1945,
+        "submissions": [
+          {
+            "submissionId": 265443276,
+            "verdict": "OK",
+            "time": 1718171670
+          },
+          {
+            "submissionId": 252258193,
+            "verdict": "SKIPPED",
+            "time": 1710842309
+          },
+          {
+            "submissionId": 252248045,
+            "verdict": "SKIPPED",
+            "time": 1710840990
+          },
+          {
+            "submissionId": 252246663,
+            "verdict": "SKIPPED",
+            "time": 1710840815
+          },
+          {
+            "submissionId": 252239908,
+            "verdict": "SKIPPED",
+            "time": 1710840014
+          },
+          {
+            "submissionId": 252226334,
+            "verdict": "SKIPPED",
+            "time": 1710838512
+          },
+          {
+            "submissionId": 252221245,
+            "verdict": "SKIPPED",
+            "time": 1710838004
+          },
+          {
+            "submissionId": 252219415,
+            "verdict": "SKIPPED",
+            "time": 1710837831
+          },
+          {
+            "submissionId": 252218595,
+            "verdict": "SKIPPED",
+            "time": 1710837749
+          },
+          {
+            "submissionId": 252214721,
+            "verdict": "SKIPPED",
+            "time": 1710837383
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "KSHDIXIT",
+    "skippedContests": []
+  },
+  {
+    "userID": "Um_dj",
+    "skippedContests": []
+  },
+  {
+    "userID": "blackswan_23",
+    "skippedContests": []
+  },
+  {
+    "userID": "mavik10",
+    "skippedContests": []
+  },
+  {
+    "userID": "HARDIKJAIN1632",
+    "skippedContests": []
+  },
+  {
+    "userID": "nileshgoyal_14",
+    "skippedContests": []
+  },
+  {
+    "userID": "amanjaiswal07",
+    "skippedContests": [
+      {
+        "contestId": 1982,
+        "submissions": [
+          {
+            "submissionId": 267402674,
+            "verdict": "SKIPPED",
+            "time": 1719333063
+          },
+          {
+            "submissionId": 267367862,
+            "verdict": "SKIPPED",
+            "time": 1719329365
+          },
+          {
+            "submissionId": 267342054,
+            "verdict": "SKIPPED",
+            "time": 1719327147
+          }
+        ]
+      },
+      {
+        "contestId": 1986,
+        "submissions": [
+          {
+            "submissionId": 267033775,
+            "verdict": "SKIPPED",
+            "time": 1719157830
+          },
+          {
+            "submissionId": 267026735,
+            "verdict": "SKIPPED",
+            "time": 1719157258
+          },
+          {
+            "submissionId": 266976737,
+            "verdict": "SKIPPED",
+            "time": 1719154539
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "Quiron-200",
+    "skippedContests": []
+  },
+  {
+    "userID": "harshitajain512",
+    "skippedContests": []
+  },
+  {
+    "userID": "shivam_codes",
+    "skippedContests": [
+      {
+        "contestId": 1982,
+        "submissions": [
+          {
+            "submissionId": 267525092,
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "time": 1719407897
+          },
+          {
+            "submissionId": 267392909,
+            "verdict": "SKIPPED",
+            "time": 1719331949
+          },
+          {
+            "submissionId": 267387516,
+            "verdict": "SKIPPED",
+            "time": 1719331342
+          },
+          {
+            "submissionId": 267374895,
+            "verdict": "SKIPPED",
+            "time": 1719330038
+          },
+          {
+            "submissionId": 267362357,
+            "verdict": "SKIPPED",
+            "time": 1719328860
+          },
+          {
+            "submissionId": 267334376,
+            "verdict": "SKIPPED",
+            "time": 1719326648
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "Raghav1234",
+    "skippedContests": []
+  },
+  {
+    "userID": "fxhxdxd",
+    "skippedContests": []
+  },
+  {
+    "userID": "dev_moulik",
+    "skippedContests": []
+  },
+  {
+    "userID": "UjjwaL_011",
+    "skippedContests": []
+  },
+  {
+    "userID": "Reaper171",
+    "skippedContests": []
+  },
+  {
+    "userID": "Nikhil_codes274",
+    "skippedContests": []
+  },
+  {
+    "userID": "its_Pegasus",
+    "skippedContests": [
+      {
+        "contestId": 1984,
+        "submissions": [
+          {
+            "submissionId": 265362957,
+            "verdict": "OK",
+            "time": 1718123547
+          },
+          {
+            "submissionId": 265362189,
+            "verdict": "OK",
+            "time": 1718123479
+          },
+          {
+            "submissionId": 264977980,
+            "verdict": "OK",
+            "time": 1717966909
+          },
+          {
+            "submissionId": 264957784,
+            "verdict": "SKIPPED",
+            "time": 1717953560
+          },
+          {
+            "submissionId": 264952552,
+            "verdict": "SKIPPED",
+            "time": 1717952466
+          },
+          {
+            "submissionId": 264950719,
+            "verdict": "SKIPPED",
+            "time": 1717952106
+          },
+          {
+            "submissionId": 264909039,
+            "verdict": "SKIPPED",
+            "time": 1717946642
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "Spookyyy",
+    "skippedContests": []
+  },
+  {
+    "userID": "bd_123",
+    "skippedContests": []
+  },
+  {
+    "userID": "Cipher_Sculptor",
+    "skippedContests": []
+  },
+  {
+    "userID": "MuditChoudhary",
+    "skippedContests": []
+  },
+  {
+    "userID": "idontknowaditya",
+    "skippedContests": [
+      {
+        "contestId": 1955,
+        "submissions": [
+          {
+            "submissionId": 266486261,
+            "verdict": "WRONG_ANSWER",
+            "time": 1718820795
+          },
+          {
+            "submissionId": 266486158,
+            "verdict": "OK",
+            "time": 1718820736
+          },
+          {
+            "submissionId": 266486006,
+            "verdict": "OK",
+            "time": 1718820647
+          },
+          {
+            "submissionId": 255915630,
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "time": 1712689545
+          },
+          {
+            "submissionId": 255755284,
+            "verdict": "SKIPPED",
+            "time": 1712594870
+          },
+          {
+            "submissionId": 255732814,
+            "verdict": "SKIPPED",
+            "time": 1712592988
+          },
+          {
+            "submissionId": 255648434,
+            "verdict": "SKIPPED",
+            "time": 1712587393
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "udaysharma24",
+    "skippedContests": []
+  },
+  {
+    "userID": "Sabhay02",
+    "skippedContests": []
+  },
+  {
+    "userID": "LUCIFER785",
+    "skippedContests": []
+  },
+  {
+    "userID": "himanshi_49",
+    "skippedContests": []
+  },
+  {
+    "userID": "Shubham_3017",
+    "skippedContests": []
+  },
+  {
+    "userID": "Harshitaaa",
+    "skippedContests": []
+  },
+  {
+    "userID": "Khushiiee21",
+    "skippedContests": []
+  },
+  {
+    "userID": "manye03",
+    "skippedContests": []
+  },
+  {
+    "userID": "agarwaladitya",
+    "skippedContests": []
+  },
+  {
+    "userID": "Gearz",
+    "skippedContests": []
+  },
+  {
+    "userID": "Abhi_d_gr8",
+    "skippedContests": [
+      {
+        "contestId": 1883,
+        "submissions": [
+          {
+            "submissionId": 250974262,
+            "verdict": "OK",
+            "time": 1710260868
+          },
+          {
+            "submissionId": 250974201,
+            "verdict": "OK",
+            "time": 1710260843
+          },
+          {
+            "submissionId": 229343144,
+            "verdict": "OK",
+            "time": 1698008130
+          },
+          {
+            "submissionId": 229286982,
+            "verdict": "SKIPPED",
+            "time": 1697979742
+          },
+          {
+            "submissionId": 229220936,
+            "verdict": "SKIPPED",
+            "time": 1697973907
+          }
+        ]
+      },
+      {
+        "contestId": 1890,
+        "submissions": [
+          {
+            "submissionId": 250974338,
+            "verdict": "OK",
+            "time": 1710260901
+          },
+          {
+            "submissionId": 230338869,
+            "verdict": "OK",
+            "time": 1698569564
+          },
+          {
+            "submissionId": 230338803,
+            "verdict": "WRONG_ANSWER",
+            "time": 1698569540
+          },
+          {
+            "submissionId": 230253531,
+            "verdict": "SKIPPED",
+            "time": 1698511252
+          },
+          {
+            "submissionId": 230244441,
+            "verdict": "SKIPPED",
+            "time": 1698509839
+          },
+          {
+            "submissionId": 230235088,
+            "verdict": "SKIPPED",
+            "time": 1698508528
+          },
+          {
+            "submissionId": 230216866,
+            "verdict": "SKIPPED",
+            "time": 1698506453
+          }
+        ]
+      },
+      {
+        "contestId": 1919,
+        "submissions": [
+          {
+            "submissionId": 240588844,
+            "verdict": "OK",
+            "time": 1704559240
+          },
+          {
+            "submissionId": 240575741,
+            "verdict": "WRONG_ANSWER",
+            "time": 1704557376
+          },
+          {
+            "submissionId": 240534200,
+            "verdict": "OK",
+            "time": 1704553395
+          },
+          {
+            "submissionId": 240522358,
+            "verdict": "SKIPPED",
+            "time": 1704552753
+          },
+          {
+            "submissionId": 240519870,
+            "verdict": "SKIPPED",
+            "time": 1704552646
+          },
+          {
+            "submissionId": 240503581,
+            "verdict": "OK",
+            "time": 1704552051
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "siddharthsolankidecember",
+    "skippedContests": []
+  },
+  {
+    "userID": "Shivvv24122004123",
+    "skippedContests": [
+      {
+        "contestId": 1982,
+        "submissions": [
+          {
+            "submissionId": 267355005,
+            "verdict": "SKIPPED",
+            "time": 1719328193
+          },
+          {
+            "submissionId": 267339719,
+            "verdict": "SKIPPED",
+            "time": 1719326980
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "_Pranjal_jain_2005",
+    "skippedContests": []
+  },
+  {
+    "userID": "AXE08",
+    "skippedContests": [
+      {
+        "contestId": 1944,
+        "submissions": [
+          {
+            "submissionId": 251791019,
+            "verdict": "SKIPPED",
+            "time": 1710608143
+          },
+          {
+            "submissionId": 251786007,
+            "verdict": "SKIPPED",
+            "time": 1710607371
+          },
+          {
+            "submissionId": 251749191,
+            "verdict": "SKIPPED",
+            "time": 1710603201
+          },
+          {
+            "submissionId": 251713991,
+            "verdict": "SKIPPED",
+            "time": 1710600520
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "Packunter",
+    "skippedContests": []
+  },
+  {
+    "userID": "TunTunMausii",
+    "skippedContests": []
+  },
+  {
+    "userID": "AVI017",
+    "skippedContests": [
+      {
+        "contestId": 1948,
+        "submissions": [
+          {
+            "submissionId": 261940192,
+            "verdict": "OK",
+            "time": 1716242796
+          },
+          {
+            "submissionId": 253309464,
+            "verdict": "OK",
+            "time": 1711438929
+          },
+          {
+            "submissionId": 251518837,
+            "verdict": "SKIPPED",
+            "time": 1710518716
+          },
+          {
+            "submissionId": 251486126,
+            "verdict": "SKIPPED",
+            "time": 1710516371
+          },
+          {
+            "submissionId": 251464696,
+            "verdict": "SKIPPED",
+            "time": 1710515202
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "Captain_Levi_1",
+    "skippedContests": []
+  },
+  {
+    "userID": "NamanKhandelwal1607",
+    "skippedContests": [
+      {
+        "contestId": 1926,
+        "submissions": [
+          {
+            "submissionId": 247320991,
+            "verdict": "SKIPPED",
+            "time": 1708357668
+          },
+          {
+            "submissionId": 247311046,
+            "verdict": "SKIPPED",
+            "time": 1708356978
+          },
+          {
+            "submissionId": 247279199,
+            "verdict": "SKIPPED",
+            "time": 1708355185
+          },
+          {
+            "submissionId": 247234706,
+            "verdict": "SKIPPED",
+            "time": 1708353569
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "riddhika707",
+    "skippedContests": []
+  },
+  {
+    "userID": "pranavkhunt6905",
+    "skippedContests": []
+  },
+  {
+    "userID": "AlakshendraB",
+    "skippedContests": []
+  },
+  {
+    "userID": "Animesh_4",
+    "skippedContests": []
+  },
+  {
+    "userID": "Piri.Piri",
+    "skippedContests": [
+      {
+        "contestId": 1976,
+        "submissions": [
+          {
+            "submissionId": 263359015,
+            "verdict": "SKIPPED",
+            "time": 1717086853
+          },
+          {
+            "submissionId": 263356190,
+            "verdict": "SKIPPED",
+            "time": 1717086561
+          },
+          {
+            "submissionId": 263354706,
+            "verdict": "SKIPPED",
+            "time": 1717086387
+          },
+          {
+            "submissionId": 263343749,
+            "verdict": "SKIPPED",
+            "time": 1717085070
+          },
+          {
+            "submissionId": 263342868,
+            "verdict": "SKIPPED",
+            "time": 1717084969
+          },
+          {
+            "submissionId": 263341785,
+            "verdict": "SKIPPED",
+            "time": 1717084852
+          },
+          {
+            "submissionId": 263338029,
+            "verdict": "SKIPPED",
+            "time": 1717084443
+          },
+          {
+            "submissionId": 263326428,
+            "verdict": "SKIPPED",
+            "time": 1717083312
+          },
+          {
+            "submissionId": 263325205,
+            "verdict": "SKIPPED",
+            "time": 1717083202
+          },
+          {
+            "submissionId": 263304455,
+            "verdict": "SKIPPED",
+            "time": 1717081661
+          },
+          {
+            "submissionId": 263299014,
+            "verdict": "SKIPPED",
+            "time": 1717081327
+          },
+          {
+            "submissionId": 263296534,
+            "verdict": "SKIPPED",
+            "time": 1717081185
+          },
+          {
+            "submissionId": 263282437,
+            "verdict": "SKIPPED",
+            "time": 1717080474
+          }
+        ]
+      },
+      {
+        "contestId": 1977,
+        "submissions": [
+          {
+            "submissionId": 262741688,
+            "verdict": "SKIPPED",
+            "time": 1716735398
+          },
+          {
+            "submissionId": 262732678,
+            "verdict": "SKIPPED",
+            "time": 1716734815
+          },
+          {
+            "submissionId": 262722319,
+            "verdict": "SKIPPED",
+            "time": 1716734289
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "23ucc566",
+    "skippedContests": []
+  },
+  {
+    "userID": "TanmayKH",
+    "skippedContests": []
+  },
+  {
+    "userID": "TheFrenchiestFry",
+    "skippedContests": [
+      {
+        "contestId": 1919,
+        "submissions": [
+          {
+            "submissionId": 240560134,
+            "verdict": "OK",
+            "time": 1704555589
+          },
+          {
+            "submissionId": 240537277,
+            "verdict": "OK",
+            "time": 1704553597
+          },
+          {
+            "submissionId": 240531862,
+            "verdict": "SKIPPED",
+            "time": 1704553249
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "Ankit_Giri_8",
+    "skippedContests": [
+      {
+        "contestId": 1955,
+        "submissions": [
+          {
+            "submissionId": 265002755,
+            "verdict": "OK",
+            "time": 1717996328
+          },
+          {
+            "submissionId": 265002667,
+            "verdict": "WRONG_ANSWER",
+            "time": 1717996269
+          },
+          {
+            "submissionId": 265002383,
+            "verdict": "WRONG_ANSWER",
+            "time": 1717996068
+          },
+          {
+            "submissionId": 255755237,
+            "verdict": "SKIPPED",
+            "time": 1712594866
+          },
+          {
+            "submissionId": 255736715,
+            "verdict": "SKIPPED",
+            "time": 1712593297
+          },
+          {
+            "submissionId": 255648391,
+            "verdict": "SKIPPED",
+            "time": 1712587391
+          },
+          {
+            "submissionId": 255644859,
+            "verdict": "SKIPPED",
+            "time": 1712587257
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "paramveer5404",
+    "skippedContests": []
+  },
+  {
+    "userID": "Ayush_Negi",
+    "skippedContests": []
+  },
+  {
+    "userID": "Jatin_jain",
+    "skippedContests": []
+  },
+  {
+    "userID": "WORTH",
+    "skippedContests": [
+      {
+        "contestId": 1904,
+        "submissions": [
+          {
+            "submissionId": 236573460,
+            "verdict": "OK",
+            "time": 1702145981
+          },
+          {
+            "submissionId": 236571470,
+            "verdict": "RUNTIME_ERROR",
+            "time": 1702145075
+          },
+          {
+            "submissionId": 236567954,
+            "verdict": "WRONG_ANSWER",
+            "time": 1702144592
+          },
+          {
+            "submissionId": 236565934,
+            "verdict": "WRONG_ANSWER",
+            "time": 1702144266
+          },
+          {
+            "submissionId": 236539189,
+            "verdict": "OK",
+            "time": 1702140211
+          },
+          {
+            "submissionId": 236538872,
+            "verdict": "OK",
+            "time": 1702140140
+          },
+          {
+            "submissionId": 236538591,
+            "verdict": "SKIPPED",
+            "time": 1702140099
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "synthborne",
+    "skippedContests": [
+      {
+        "contestId": 1798,
+        "submissions": [
+          {
+            "submissionId": 207842452,
+            "verdict": "OK",
+            "time": 1685443084
+          },
+          {
+            "submissionId": 207842354,
+            "verdict": "WRONG_ANSWER",
+            "time": 1685443027
+          },
+          {
+            "submissionId": 199515445,
+            "verdict": "WRONG_ANSWER",
+            "time": 1679997185
+          },
+          {
+            "submissionId": 199511877,
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "time": 1679994931
+          },
+          {
+            "submissionId": 199511813,
+            "verdict": "WRONG_ANSWER",
+            "time": 1679994897
+          },
+          {
+            "submissionId": 199511156,
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "time": 1679994517
+          },
+          {
+            "submissionId": 199337420,
+            "verdict": "OK",
+            "time": 1679866812
+          },
+          {
+            "submissionId": 199337148,
+            "verdict": "WRONG_ANSWER",
+            "time": 1679866635
+          },
+          {
+            "submissionId": 199336817,
+            "verdict": "WRONG_ANSWER",
+            "time": 1679866439
+          },
+          {
+            "submissionId": 199280587,
+            "verdict": "SKIPPED",
+            "time": 1679844793
+          },
+          {
+            "submissionId": 199280218,
+            "verdict": "SKIPPED",
+            "time": 1679844742
+          },
+          {
+            "submissionId": 199266439,
+            "verdict": "SKIPPED",
+            "time": 1679842922
+          },
+          {
+            "submissionId": 199263539,
+            "verdict": "SKIPPED",
+            "time": 1679842593
+          },
+          {
+            "submissionId": 199259842,
+            "verdict": "SKIPPED",
+            "time": 1679842217
+          }
+        ]
+      },
+      {
+        "contestId": 1808,
+        "submissions": [
+          {
+            "submissionId": 199679349,
+            "verdict": "WRONG_ANSWER",
+            "time": 1680086596
+          },
+          {
+            "submissionId": 199678999,
+            "verdict": "WRONG_ANSWER",
+            "time": 1680086533
+          },
+          {
+            "submissionId": 199677995,
+            "verdict": "WRONG_ANSWER",
+            "time": 1680086353
+          },
+          {
+            "submissionId": 199677776,
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "time": 1680086313
+          },
+          {
+            "submissionId": 199677501,
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "time": 1680086262
+          },
+          {
+            "submissionId": 199676608,
+            "verdict": "WRONG_ANSWER",
+            "time": 1680086108
+          },
+          {
+            "submissionId": 199676101,
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "time": 1680086013
+          },
+          {
+            "submissionId": 199675584,
+            "verdict": "OK",
+            "time": 1680085918
+          },
+          {
+            "submissionId": 199668570,
+            "verdict": "WRONG_ANSWER",
+            "time": 1680084710
+          },
+          {
+            "submissionId": 199667962,
+            "verdict": "RUNTIME_ERROR",
+            "time": 1680084601
+          },
+          {
+            "submissionId": 199666937,
+            "verdict": "RUNTIME_ERROR",
+            "time": 1680084436
+          },
+          {
+            "submissionId": 199659892,
+            "verdict": "SKIPPED",
+            "time": 1680083357
+          },
+          {
+            "submissionId": 199659749,
+            "verdict": "WRONG_ANSWER",
+            "time": 1680083336
+          },
+          {
+            "submissionId": 199655214,
+            "verdict": "WRONG_ANSWER",
+            "time": 1680082711
+          },
+          {
+            "submissionId": 199649776,
+            "verdict": "WRONG_ANSWER",
+            "time": 1680082046
+          },
+          {
+            "submissionId": 199648363,
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "time": 1680081886
+          }
+        ]
+      },
+      {
+        "contestId": 1875,
+        "submissions": [
+          {
+            "submissionId": 232370738,
+            "verdict": "OK",
+            "time": 1699704109
+          },
+          {
+            "submissionId": 226006224,
+            "verdict": "OK",
+            "time": 1696090083
+          },
+          {
+            "submissionId": 226004642,
+            "verdict": "SKIPPED",
+            "time": 1696089920
+          },
+          {
+            "submissionId": 226004096,
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "time": 1696089859
+          },
+          {
+            "submissionId": 226003860,
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "time": 1696089834
+          },
+          {
+            "submissionId": 226002848,
+            "verdict": "WRONG_ANSWER",
+            "time": 1696089730
+          },
+          {
+            "submissionId": 225985557,
+            "verdict": "WRONG_ANSWER",
+            "time": 1696088037
+          },
+          {
+            "submissionId": 225982184,
+            "verdict": "WRONG_ANSWER",
+            "time": 1696087742
+          },
+          {
+            "submissionId": 225973990,
+            "verdict": "OK",
+            "time": 1696087040
+          },
+          {
+            "submissionId": 225961284,
+            "verdict": "WRONG_ANSWER",
+            "time": 1696086053
+          },
+          {
+            "submissionId": 225940537,
+            "verdict": "WRONG_ANSWER",
+            "time": 1696085277
+          },
+          {
+            "submissionId": 225922390,
+            "verdict": "OK",
+            "time": 1696084742
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "AloneMusk",
+    "skippedContests": [
+      {
+        "contestId": 1746,
+        "submissions": [
+          {
+            "submissionId": 176358826,
+            "verdict": "OK",
+            "time": 1665849517
+          },
+          {
+            "submissionId": 176344182,
+            "verdict": "SKIPPED",
+            "time": 1665847492
+          },
+          {
+            "submissionId": 176330743,
+            "verdict": "OK",
+            "time": 1665846074
+          },
+          {
+            "submissionId": 176328494,
+            "verdict": "WRONG_ANSWER",
+            "time": 1665845876
+          },
+          {
+            "submissionId": 176327712,
+            "verdict": "WRONG_ANSWER",
+            "time": 1665845808
+          },
+          {
+            "submissionId": 176312262,
+            "verdict": "OK",
+            "time": 1665844763
+          }
+        ]
+      },
+      {
+        "contestId": 1804,
+        "submissions": [
+          {
+            "submissionId": 261296465,
+            "verdict": "OK",
+            "time": 1715932932
+          },
+          {
+            "submissionId": 261294509,
+            "verdict": "WRONG_ANSWER",
+            "time": 1715931807
+          },
+          {
+            "submissionId": 261292553,
+            "verdict": "WRONG_ANSWER",
+            "time": 1715930701
+          },
+          {
+            "submissionId": 197879732,
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "time": 1679127625
+          },
+          {
+            "submissionId": 197130214,
+            "verdict": "OK",
+            "time": 1678638871
+          },
+          {
+            "submissionId": 197129204,
+            "verdict": "SKIPPED",
+            "time": 1678638779
+          },
+          {
+            "submissionId": 197128882,
+            "verdict": "WRONG_ANSWER",
+            "time": 1678638748
+          },
+          {
+            "submissionId": 197125603,
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "time": 1678638351
+          },
+          {
+            "submissionId": 197114684,
+            "verdict": "OK",
+            "time": 1678636802
+          },
+          {
+            "submissionId": 197107420,
+            "verdict": "WRONG_ANSWER",
+            "time": 1678635795
+          },
+          {
+            "submissionId": 197086062,
+            "verdict": "WRONG_ANSWER",
+            "time": 1678633097
+          },
+          {
+            "submissionId": 197084185,
+            "verdict": "WRONG_ANSWER",
+            "time": 1678632873
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "crimsonred",
+    "skippedContests": [
+      {
+        "contestId": 1526,
+        "submissions": [
+          {
+            "submissionId": 118313100,
+            "verdict": "OK",
+            "time": 1622752661
+          },
+          {
+            "submissionId": 117974499,
+            "verdict": "OK",
+            "time": 1622454082
+          },
+          {
+            "submissionId": 117974438,
+            "verdict": "OK",
+            "time": 1622454050
+          },
+          {
+            "submissionId": 117973290,
+            "verdict": "OK",
+            "time": 1622453223
+          },
+          {
+            "submissionId": 117972714,
+            "verdict": "OK",
+            "time": 1622452790
+          },
+          {
+            "submissionId": 117691983,
+            "verdict": "OK",
+            "time": 1622224567
+          },
+          {
+            "submissionId": 117662070,
+            "verdict": "OK",
+            "time": 1622216861
+          },
+          {
+            "submissionId": 117661643,
+            "verdict": "OK",
+            "time": 1622216810
+          },
+          {
+            "submissionId": 117648377,
+            "verdict": "SKIPPED",
+            "time": 1622215295
+          },
+          {
+            "submissionId": 117628461,
+            "verdict": "OK",
+            "time": 1622213421
+          },
+          {
+            "submissionId": 117618357,
+            "verdict": "WRONG_ANSWER",
+            "time": 1622212596
+          },
+          {
+            "submissionId": 117606484,
+            "verdict": "OK",
+            "time": 1622211702
+          },
+          {
+            "submissionId": 117606125,
+            "verdict": "COMPILATION_ERROR",
+            "time": 1622211678
+          }
+        ]
+      },
+      {
+        "contestId": 1527,
+        "submissions": [
+          {
+            "submissionId": 116849055,
+            "verdict": "OK",
+            "time": 1621533746
+          },
+          {
+            "submissionId": 116849041,
+            "verdict": "OK",
+            "time": 1621533737
+          },
+          {
+            "submissionId": 116847942,
+            "verdict": "OK",
+            "time": 1621533134
+          },
+          {
+            "submissionId": 116842758,
+            "verdict": "WRONG_ANSWER",
+            "time": 1621528498
+          },
+          {
+            "submissionId": 116831601,
+            "verdict": "OK",
+            "time": 1621527428
+          },
+          {
+            "submissionId": 116824098,
+            "verdict": "OK",
+            "time": 1621526563
+          },
+          {
+            "submissionId": 116821448,
+            "verdict": "WRONG_ANSWER",
+            "time": 1621526281
+          },
+          {
+            "submissionId": 116814926,
+            "verdict": "WRONG_ANSWER",
+            "time": 1621525620
+          },
+          {
+            "submissionId": 116810713,
+            "verdict": "WRONG_ANSWER",
+            "time": 1621525222
+          },
+          {
+            "submissionId": 116800648,
+            "verdict": "WRONG_ANSWER",
+            "time": 1621524366
+          },
+          {
+            "submissionId": 116794704,
+            "verdict": "WRONG_ANSWER",
+            "time": 1621523898
+          },
+          {
+            "submissionId": 116790606,
+            "verdict": "WRONG_ANSWER",
+            "time": 1621523605
+          },
+          {
+            "submissionId": 116790373,
+            "verdict": "SKIPPED",
+            "time": 1621523590
+          },
+          {
+            "submissionId": 116753194,
+            "verdict": "OK",
+            "time": 1621521466
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "Nitin1605",
+    "skippedContests": [
+      {
+        "contestId": 1746,
+        "submissions": [
+          {
+            "submissionId": 176376608,
+            "verdict": "WRONG_ANSWER",
+            "time": 1665852399
+          },
+          {
+            "submissionId": 176373292,
+            "verdict": "WRONG_ANSWER",
+            "time": 1665851919
+          },
+          {
+            "submissionId": 176372248,
+            "verdict": "WRONG_ANSWER",
+            "time": 1665851754
+          },
+          {
+            "submissionId": 176371383,
+            "verdict": "WRONG_ANSWER",
+            "time": 1665851622
+          },
+          {
+            "submissionId": 176370954,
+            "verdict": "IDLENESS_LIMIT_EXCEEDED",
+            "time": 1665851549
+          },
+          {
+            "submissionId": 176358864,
+            "verdict": "OK",
+            "time": 1665849524
+          },
+          {
+            "submissionId": 176357732,
+            "verdict": "WRONG_ANSWER",
+            "time": 1665849339
+          },
+          {
+            "submissionId": 176355054,
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "time": 1665848924
+          },
+          {
+            "submissionId": 176343369,
+            "verdict": "OK",
+            "time": 1665847395
+          },
+          {
+            "submissionId": 176342878,
+            "verdict": "SKIPPED",
+            "time": 1665847336
+          },
+          {
+            "submissionId": 176338423,
+            "verdict": "WRONG_ANSWER",
+            "time": 1665846842
+          },
+          {
+            "submissionId": 176336093,
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "time": 1665846599
+          },
+          {
+            "submissionId": 176329679,
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "time": 1665845980
+          },
+          {
+            "submissionId": 176317257,
+            "verdict": "OK",
+            "time": 1665845050
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "og_",
+    "skippedContests": [
+      {
+        "contestId": 1737,
+        "submissions": [
+          {
+            "submissionId": 175075782,
+            "verdict": "OK",
+            "time": 1665207866
+          },
+          {
+            "submissionId": 175029003,
+            "verdict": "WRONG_ANSWER",
+            "time": 1665162219
+          },
+          {
+            "submissionId": 175026098,
+            "verdict": "WRONG_ANSWER",
+            "time": 1665161629
+          },
+          {
+            "submissionId": 175022343,
+            "verdict": "WRONG_ANSWER",
+            "time": 1665160768
+          },
+          {
+            "submissionId": 175013149,
+            "verdict": "OK",
+            "time": 1665158762
+          },
+          {
+            "submissionId": 175011754,
+            "verdict": "SKIPPED",
+            "time": 1665158451
+          },
+          {
+            "submissionId": 175009429,
+            "verdict": "WRONG_ANSWER",
+            "time": 1665157966
+          },
+          {
+            "submissionId": 175005972,
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "time": 1665157282
+          },
+          {
+            "submissionId": 174987441,
+            "verdict": "OK",
+            "time": 1665154228
+          }
+        ]
+      },
+      {
+        "contestId": 1794,
+        "submissions": [
+          {
+            "submissionId": 196052293,
+            "verdict": "OK",
+            "time": 1677957853
+          },
+          {
+            "submissionId": 196051999,
+            "verdict": "SKIPPED",
+            "time": 1677957797
+          },
+          {
+            "submissionId": 196031434,
+            "verdict": "OK",
+            "time": 1677954389
+          },
+          {
+            "submissionId": 196029190,
+            "verdict": "WRONG_ANSWER",
+            "time": 1677954117
+          },
+          {
+            "submissionId": 196007536,
+            "verdict": "OK",
+            "time": 1677952021
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "Gminor",
+    "skippedContests": []
+  },
+  {
+    "userID": "KINGZIE",
+    "skippedContests": [
+      {
+        "contestId": 1798,
+        "submissions": [
+          {
+            "submissionId": 204901955,
+            "verdict": "OK",
+            "time": 1683408249
+          },
+          {
+            "submissionId": 200676382,
+            "verdict": "OK",
+            "time": 1680609778
+          },
+          {
+            "submissionId": 199298026,
+            "verdict": "SKIPPED",
+            "time": 1679847471
+          },
+          {
+            "submissionId": 199284601,
+            "verdict": "SKIPPED",
+            "time": 1679845381
+          },
+          {
+            "submissionId": 199280392,
+            "verdict": "SKIPPED",
+            "time": 1679844766
+          },
+          {
+            "submissionId": 199274827,
+            "verdict": "SKIPPED",
+            "time": 1679843994
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "killer4585654",
+    "skippedContests": [
+      {
+        "contestId": 1818,
+        "submissions": [
+          {
+            "submissionId": 204334947,
+            "verdict": "WRONG_ANSWER",
+            "time": 1683117619
+          },
+          {
+            "submissionId": 204334884,
+            "verdict": "COMPILATION_ERROR",
+            "time": 1683117584
+          },
+          {
+            "submissionId": 203957598,
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "time": 1682786870
+          },
+          {
+            "submissionId": 203942831,
+            "verdict": "OK",
+            "time": 1682783729
+          },
+          {
+            "submissionId": 203941377,
+            "verdict": "WRONG_ANSWER",
+            "time": 1682783432
+          },
+          {
+            "submissionId": 203934330,
+            "verdict": "OK",
+            "time": 1682782125
+          },
+          {
+            "submissionId": 203934172,
+            "verdict": "SKIPPED",
+            "time": 1682782098
+          }
+        ]
+      },
+      {
+        "contestId": 1837,
+        "submissions": [
+          {
+            "submissionId": 219220553,
+            "verdict": "OK",
+            "time": 1692266033
+          },
+          {
+            "submissionId": 207252420,
+            "verdict": "SKIPPED",
+            "time": 1685031609
+          },
+          {
+            "submissionId": 207206700,
+            "verdict": "SKIPPED",
+            "time": 1685027730
+          },
+          {
+            "submissionId": 207204259,
+            "verdict": "SKIPPED",
+            "time": 1685027582
+          },
+          {
+            "submissionId": 207200850,
+            "verdict": "SKIPPED",
+            "time": 1685027370
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "AG___",
+    "skippedContests": []
+  },
+  {
+    "userID": "_SwaRaj",
+    "skippedContests": [
+      {
+        "contestId": 1797,
+        "submissions": [
+          {
+            "submissionId": 201360071,
+            "verdict": "IDLENESS_LIMIT_EXCEEDED",
+            "time": 1680975015
+          },
+          {
+            "submissionId": 201346941,
+            "verdict": "SKIPPED",
+            "time": 1680969767
+          },
+          {
+            "submissionId": 201345703,
+            "verdict": "SKIPPED",
+            "time": 1680969645
+          },
+          {
+            "submissionId": 201345263,
+            "verdict": "SKIPPED",
+            "time": 1680969601
+          },
+          {
+            "submissionId": 201343589,
+            "verdict": "SKIPPED",
+            "time": 1680969433
+          },
+          {
+            "submissionId": 201342622,
+            "verdict": "SKIPPED",
+            "time": 1680969327
+          },
+          {
+            "submissionId": 201341397,
+            "verdict": "SKIPPED",
+            "time": 1680969190
+          },
+          {
+            "submissionId": 201340209,
+            "verdict": "SKIPPED",
+            "time": 1680969055
+          },
+          {
+            "submissionId": 201338839,
+            "verdict": "SKIPPED",
+            "time": 1680968904
+          },
+          {
+            "submissionId": 201336392,
+            "verdict": "SKIPPED",
+            "time": 1680968630
+          },
+          {
+            "submissionId": 201335330,
+            "verdict": "SKIPPED",
+            "time": 1680968510
+          },
+          {
+            "submissionId": 201332768,
+            "verdict": "SKIPPED",
+            "time": 1680968228
+          },
+          {
+            "submissionId": 201331893,
+            "verdict": "SKIPPED",
+            "time": 1680968132
+          },
+          {
+            "submissionId": 201330966,
+            "verdict": "SKIPPED",
+            "time": 1680968036
+          },
+          {
+            "submissionId": 201329456,
+            "verdict": "SKIPPED",
+            "time": 1680967875
+          },
+          {
+            "submissionId": 201327570,
+            "verdict": "SKIPPED",
+            "time": 1680967705
+          },
+          {
+            "submissionId": 201322955,
+            "verdict": "SKIPPED",
+            "time": 1680967176
+          },
+          {
+            "submissionId": 201321795,
+            "verdict": "SKIPPED",
+            "time": 1680967070
+          },
+          {
+            "submissionId": 201316043,
+            "verdict": "SKIPPED",
+            "time": 1680966537
+          },
+          {
+            "submissionId": 201313292,
+            "verdict": "SKIPPED",
+            "time": 1680966295
+          },
+          {
+            "submissionId": 201311705,
+            "verdict": "SKIPPED",
+            "time": 1680966155
+          },
+          {
+            "submissionId": 201306395,
+            "verdict": "SKIPPED",
+            "time": 1680965718
+          },
+          {
+            "submissionId": 201305191,
+            "verdict": "SKIPPED",
+            "time": 1680965622
+          },
+          {
+            "submissionId": 201304081,
+            "verdict": "SKIPPED",
+            "time": 1680965531
+          },
+          {
+            "submissionId": 201303177,
+            "verdict": "SKIPPED",
+            "time": 1680965465
+          },
+          {
+            "submissionId": 201301382,
+            "verdict": "SKIPPED",
+            "time": 1680965324
+          },
+          {
+            "submissionId": 201299900,
+            "verdict": "SKIPPED",
+            "time": 1680965211
+          },
+          {
+            "submissionId": 201298527,
+            "verdict": "SKIPPED",
+            "time": 1680965112
+          },
+          {
+            "submissionId": 201295236,
+            "verdict": "SKIPPED",
+            "time": 1680964873
+          }
+        ]
+      },
+      {
+        "contestId": 1813,
+        "submissions": [
+          {
+            "submissionId": 201938459,
+            "verdict": "WRONG_ANSWER",
+            "time": 1681390870
+          },
+          {
+            "submissionId": 201937561,
+            "verdict": "SKIPPED",
+            "time": 1681390470
+          },
+          {
+            "submissionId": 201937350,
+            "verdict": "SKIPPED",
+            "time": 1681390375
+          },
+          {
+            "submissionId": 201937292,
+            "verdict": "SKIPPED",
+            "time": 1681390351
+          }
+        ]
+      },
+      {
+        "contestId": 1816,
+        "submissions": [
+          {
+            "submissionId": 201541614,
+            "verdict": "OK",
+            "time": 1681056498
+          },
+          {
+            "submissionId": 201538484,
+            "verdict": "WRONG_ANSWER",
+            "time": 1681056112
+          },
+          {
+            "submissionId": 201536792,
+            "verdict": "WRONG_ANSWER",
+            "time": 1681055906
+          },
+          {
+            "submissionId": 201534830,
+            "verdict": "WRONG_ANSWER",
+            "time": 1681055680
+          },
+          {
+            "submissionId": 201530946,
+            "verdict": "SKIPPED",
+            "time": 1681055276
+          },
+          {
+            "submissionId": 201530504,
+            "verdict": "COMPILATION_ERROR",
+            "time": 1681055234
+          },
+          {
+            "submissionId": 201514368,
+            "verdict": "OK",
+            "time": 1681053844
+          },
+          {
+            "submissionId": 201505645,
+            "verdict": "OK",
+            "time": 1681053227
+          },
+          {
+            "submissionId": 201504329,
+            "verdict": "WRONG_ANSWER",
+            "time": 1681053141
+          },
+          {
+            "submissionId": 201500996,
+            "verdict": "WRONG_ANSWER",
+            "time": 1681052933
+          },
+          {
+            "submissionId": 201487210,
+            "verdict": "WRONG_ANSWER",
+            "time": 1681052127
+          },
+          {
+            "submissionId": 201484263,
+            "verdict": "WRONG_ANSWER",
+            "time": 1681051953
+          }
+        ]
+      },
+      {
+        "contestId": 1820,
+        "submissions": [
+          {
+            "submissionId": 202227138,
+            "verdict": "WRONG_ANSWER",
+            "time": 1681556363
+          },
+          {
+            "submissionId": 202223828,
+            "verdict": "OK",
+            "time": 1681555825
+          },
+          {
+            "submissionId": 202219783,
+            "verdict": "SKIPPED",
+            "time": 1681555120
+          },
+          {
+            "submissionId": 202215895,
+            "verdict": "OK",
+            "time": 1681554497
+          },
+          {
+            "submissionId": 202213833,
+            "verdict": "WRONG_ANSWER",
+            "time": 1681554172
+          }
+        ]
+      },
+      {
+        "contestId": 1829,
+        "submissions": [
+          {
+            "submissionId": 208031700,
+            "verdict": "OK",
+            "time": 1685606919
+          },
+          {
+            "submissionId": 205962310,
+            "verdict": "OK",
+            "time": 1684142745
+          },
+          {
+            "submissionId": 205809476,
+            "verdict": "OK",
+            "time": 1684054552
+          },
+          {
+            "submissionId": 205198390,
+            "verdict": "OK",
+            "time": 1683620417
+          },
+          {
+            "submissionId": 204869791,
+            "verdict": "SKIPPED",
+            "time": 1683391213
+          },
+          {
+            "submissionId": 204865311,
+            "verdict": "SKIPPED",
+            "time": 1683390703
+          },
+          {
+            "submissionId": 204864701,
+            "verdict": "SKIPPED",
+            "time": 1683390637
+          },
+          {
+            "submissionId": 204828866,
+            "verdict": "SKIPPED",
+            "time": 1683387344
+          },
+          {
+            "submissionId": 204821375,
+            "verdict": "SKIPPED",
+            "time": 1683386795
+          },
+          {
+            "submissionId": 204819920,
+            "verdict": "SKIPPED",
+            "time": 1683386699
+          },
+          {
+            "submissionId": 204814814,
+            "verdict": "SKIPPED",
+            "time": 1683386369
+          }
+        ]
+      },
+      {
+        "contestId": 1833,
+        "submissions": [
+          {
+            "submissionId": 206498606,
+            "verdict": "SKIPPED",
+            "time": 1684509648
+          },
+          {
+            "submissionId": 206482705,
+            "verdict": "SKIPPED",
+            "time": 1684508384
+          },
+          {
+            "submissionId": 206473770,
+            "verdict": "SKIPPED",
+            "time": 1684507835
+          },
+          {
+            "submissionId": 206466454,
+            "verdict": "SKIPPED",
+            "time": 1684507461
+          },
+          {
+            "submissionId": 206457901,
+            "verdict": "SKIPPED",
+            "time": 1684506939
+          }
+        ]
+      },
+      {
+        "contestId": 1930,
+        "submissions": [
+          {
+            "submissionId": 246888393,
+            "verdict": "OK",
+            "time": 1708189108
+          },
+          {
+            "submissionId": 246887798,
+            "verdict": "WRONG_ANSWER",
+            "time": 1708188966
+          },
+          {
+            "submissionId": 246886932,
+            "verdict": "SKIPPED",
+            "time": 1708188753
+          },
+          {
+            "submissionId": 246877312,
+            "verdict": "WRONG_ANSWER",
+            "time": 1708186557
+          },
+          {
+            "submissionId": 246875391,
+            "verdict": "WRONG_ANSWER",
+            "time": 1708186178
+          },
+          {
+            "submissionId": 246875284,
+            "verdict": "OK",
+            "time": 1708186156
+          },
+          {
+            "submissionId": 246870695,
+            "verdict": "OK",
+            "time": 1708185298
+          },
+          {
+            "submissionId": 246848398,
+            "verdict": "OK",
+            "time": 1708182191
+          },
+          {
+            "submissionId": 246844811,
+            "verdict": "SKIPPED",
+            "time": 1708181860
+          },
+          {
+            "submissionId": 246834808,
+            "verdict": "OK",
+            "time": 1708181174
+          },
+          {
+            "submissionId": 246833100,
+            "verdict": "COMPILATION_ERROR",
+            "time": 1708181087
+          }
+        ]
+      },
+      {
+        "contestId": 1944,
+        "submissions": [
+          {
+            "submissionId": 251750527,
+            "verdict": "SKIPPED",
+            "time": 1710603318
+          },
+          {
+            "submissionId": 251741797,
+            "verdict": "SKIPPED",
+            "time": 1710602571
+          },
+          {
+            "submissionId": 251729136,
+            "verdict": "SKIPPED",
+            "time": 1710601622
+          },
+          {
+            "submissionId": 251728248,
+            "verdict": "SKIPPED",
+            "time": 1710601557
+          },
+          {
+            "submissionId": 251724846,
+            "verdict": "SKIPPED",
+            "time": 1710601304
+          },
+          {
+            "submissionId": 251723682,
+            "verdict": "SKIPPED",
+            "time": 1710601222
+          },
+          {
+            "submissionId": 251721840,
+            "verdict": "SKIPPED",
+            "time": 1710601092
+          },
+          {
+            "submissionId": 251702929,
+            "verdict": "SKIPPED",
+            "time": 1710599888
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "Gsharp",
+    "skippedContests": [
+      {
+        "contestId": 1802,
+        "submissions": [
+          {
+            "submissionId": 197470858,
+            "verdict": "OK",
+            "time": 1678864178
+          },
+          {
+            "submissionId": 197470812,
+            "verdict": "COMPILATION_ERROR",
+            "time": 1678864147
+          },
+          {
+            "submissionId": 197470682,
+            "verdict": "OK",
+            "time": 1678864067
+          },
+          {
+            "submissionId": 196634519,
+            "verdict": "SKIPPED",
+            "time": 1678360785
+          },
+          {
+            "submissionId": 196634401,
+            "verdict": "SKIPPED",
+            "time": 1678360761
+          },
+          {
+            "submissionId": 196634036,
+            "verdict": "SKIPPED",
+            "time": 1678360680
+          },
+          {
+            "submissionId": 196613139,
+            "verdict": "SKIPPED",
+            "time": 1678356572
+          }
+        ]
+      },
+      {
+        "contestId": 1820,
+        "submissions": [
+          {
+            "submissionId": 202215467,
+            "verdict": "OK",
+            "time": 1681554429
+          },
+          {
+            "submissionId": 202210471,
+            "verdict": "SKIPPED",
+            "time": 1681553663
+          },
+          {
+            "submissionId": 202209596,
+            "verdict": "WRONG_ANSWER",
+            "time": 1681553545
+          },
+          {
+            "submissionId": 202205513,
+            "verdict": "WRONG_ANSWER",
+            "time": 1681552920
+          },
+          {
+            "submissionId": 202202215,
+            "verdict": "WRONG_ANSWER",
+            "time": 1681552489
+          },
+          {
+            "submissionId": 202199917,
+            "verdict": "WRONG_ANSWER",
+            "time": 1681552196
+          },
+          {
+            "submissionId": 202186688,
+            "verdict": "OK",
+            "time": 1681550557
+          }
+        ]
+      },
+      {
+        "contestId": 1853,
+        "submissions": [
+          {
+            "submissionId": 215259440,
+            "verdict": "OK",
+            "time": 1690136463
+          },
+          {
+            "submissionId": 215256462,
+            "verdict": "WRONG_ANSWER",
+            "time": 1690135050
+          },
+          {
+            "submissionId": 215256078,
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "time": 1690134896
+          },
+          {
+            "submissionId": 215255404,
+            "verdict": "WRONG_ANSWER",
+            "time": 1690134660
+          },
+          {
+            "submissionId": 215255052,
+            "verdict": "WRONG_ANSWER",
+            "time": 1690134542
+          },
+          {
+            "submissionId": 215254547,
+            "verdict": "WRONG_ANSWER",
+            "time": 1690134418
+          },
+          {
+            "submissionId": 215235007,
+            "verdict": "OK",
+            "time": 1690128273
+          },
+          {
+            "submissionId": 215234139,
+            "verdict": "SKIPPED",
+            "time": 1690128079
+          },
+          {
+            "submissionId": 215202186,
+            "verdict": "OK",
+            "time": 1690123654
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "VaibhavRai10",
+    "skippedContests": [
+      {
+        "contestId": 1671,
+        "submissions": [
+          {
+            "submissionId": 165677959,
+            "verdict": "OK",
+            "time": 1658756179
+          },
+          {
+            "submissionId": 165677807,
+            "verdict": "OK",
+            "time": 1658756095
+          },
+          {
+            "submissionId": 165676292,
+            "verdict": "WRONG_ANSWER",
+            "time": 1658755271
+          },
+          {
+            "submissionId": 165676151,
+            "verdict": "WRONG_ANSWER",
+            "time": 1658755199
+          },
+          {
+            "submissionId": 154573208,
+            "verdict": "SKIPPED",
+            "time": 1650644860
+          },
+          {
+            "submissionId": 154565431,
+            "verdict": "SKIPPED",
+            "time": 1650643632
+          },
+          {
+            "submissionId": 154546399,
+            "verdict": "SKIPPED",
+            "time": 1650641120
+          }
+        ]
+      },
+      {
+        "contestId": 1726,
+        "submissions": [
+          {
+            "submissionId": 171148030,
+            "verdict": "OK",
+            "time": 1662482640
+          },
+          {
+            "submissionId": 171146908,
+            "verdict": "SKIPPED",
+            "time": 1662482475
+          },
+          {
+            "submissionId": 171137751,
+            "verdict": "OK",
+            "time": 1662481102
+          },
+          {
+            "submissionId": 171128188,
+            "verdict": "WRONG_ANSWER",
+            "time": 1662479855
+          },
+          {
+            "submissionId": 171122796,
+            "verdict": "WRONG_ANSWER",
+            "time": 1662479227
+          },
+          {
+            "submissionId": 171122103,
+            "verdict": "WRONG_ANSWER",
+            "time": 1662479152
+          },
+          {
+            "submissionId": 171111310,
+            "verdict": "OK",
+            "time": 1662478085
+          },
+          {
+            "submissionId": 171080512,
+            "verdict": "WRONG_ANSWER",
+            "time": 1662475894
+          }
+        ]
+      },
+      {
+        "contestId": 1775,
+        "submissions": [
+          {
+            "submissionId": 188843622,
+            "verdict": "OK",
+            "time": 1673420635
+          },
+          {
+            "submissionId": 188799182,
+            "verdict": "OK",
+            "time": 1673375166
+          },
+          {
+            "submissionId": 188755484,
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "time": 1673357528
+          },
+          {
+            "submissionId": 188755095,
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "time": 1673357466
+          },
+          {
+            "submissionId": 188731775,
+            "verdict": "OK",
+            "time": 1673354039
+          },
+          {
+            "submissionId": 188731186,
+            "verdict": "OK",
+            "time": 1673353954
+          },
+          {
+            "submissionId": 188722730,
+            "verdict": "WRONG_ANSWER",
+            "time": 1673352907
+          },
+          {
+            "submissionId": 188719316,
+            "verdict": "WRONG_ANSWER",
+            "time": 1673352530
+          },
+          {
+            "submissionId": 188706930,
+            "verdict": "WRONG_ANSWER",
+            "time": 1673351288
+          },
+          {
+            "submissionId": 188706132,
+            "verdict": "SKIPPED",
+            "time": 1673351217
+          },
+          {
+            "submissionId": 188699092,
+            "verdict": "WRONG_ANSWER",
+            "time": 1673350588
+          },
+          {
+            "submissionId": 188690145,
+            "verdict": "WRONG_ANSWER",
+            "time": 1673349785
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": ".utk.",
+    "skippedContests": [
+      {
+        "contestId": 1804,
+        "submissions": [
+          {
+            "submissionId": 197150815,
+            "verdict": "OK",
+            "time": 1678648502
+          },
+          {
+            "submissionId": 197140360,
+            "verdict": "WRONG_ANSWER",
+            "time": 1678643857
+          },
+          {
+            "submissionId": 197139971,
+            "verdict": "WRONG_ANSWER",
+            "time": 1678643689
+          },
+          {
+            "submissionId": 197139748,
+            "verdict": "WRONG_ANSWER",
+            "time": 1678643600
+          },
+          {
+            "submissionId": 197120691,
+            "verdict": "OK",
+            "time": 1678637678
+          },
+          {
+            "submissionId": 197119017,
+            "verdict": "SKIPPED",
+            "time": 1678637446
+          },
+          {
+            "submissionId": 197113886,
+            "verdict": "WRONG_ANSWER",
+            "time": 1678636689
+          },
+          {
+            "submissionId": 197112862,
+            "verdict": "WRONG_ANSWER",
+            "time": 1678636542
+          },
+          {
+            "submissionId": 197093129,
+            "verdict": "OK",
+            "time": 1678633921
+          },
+          {
+            "submissionId": 197077350,
+            "verdict": "OK",
+            "time": 1678632236
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "NamanJ_1",
+    "skippedContests": []
+  },
+  {
+    "userID": "ModernSudama",
+    "skippedContests": []
+  },
+  {
+    "userID": "pranshul_047",
+    "skippedContests": []
+  },
+  {
+    "userID": "HD2003",
+    "skippedContests": [
+      {
+        "contestId": 1831,
+        "submissions": [
+          {
+            "submissionId": 212939637,
+            "verdict": "OK",
+            "time": 1688892427
+          },
+          {
+            "submissionId": 212939569,
+            "verdict": "OK",
+            "time": 1688892392
+          },
+          {
+            "submissionId": 207639320,
+            "verdict": "SKIPPED",
+            "time": 1685289318
+          },
+          {
+            "submissionId": 207631338,
+            "verdict": "SKIPPED",
+            "time": 1685288406
+          },
+          {
+            "submissionId": 207628900,
+            "verdict": "SKIPPED",
+            "time": 1685288143
+          },
+          {
+            "submissionId": 207623307,
+            "verdict": "SKIPPED",
+            "time": 1685287560
+          },
+          {
+            "submissionId": 207618891,
+            "verdict": "SKIPPED",
+            "time": 1685287138
+          },
+          {
+            "submissionId": 207611518,
+            "verdict": "SKIPPED",
+            "time": 1685286472
+          },
+          {
+            "submissionId": 207594031,
+            "verdict": "SKIPPED",
+            "time": 1685285233
+          },
+          {
+            "submissionId": 207588959,
+            "verdict": "SKIPPED",
+            "time": 1685284963
+          },
+          {
+            "submissionId": 207587267,
+            "verdict": "SKIPPED",
+            "time": 1685284860
+          }
+        ]
+      },
+      {
+        "contestId": 1987,
+        "submissions": [
+          {
+            "submissionId": 268215129,
+            "verdict": "OK",
+            "time": 1719768011
+          },
+          {
+            "submissionId": 268211992,
+            "verdict": "SKIPPED",
+            "time": 1719767421
+          },
+          {
+            "submissionId": 268210931,
+            "verdict": "WRONG_ANSWER",
+            "time": 1719767218
+          },
+          {
+            "submissionId": 268210482,
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "time": 1719767129
+          },
+          {
+            "submissionId": 268192470,
+            "verdict": "OK",
+            "time": 1719763886
+          },
+          {
+            "submissionId": 268188701,
+            "verdict": "OK",
+            "time": 1719763291
+          },
+          {
+            "submissionId": 268188379,
+            "verdict": "WRONG_ANSWER",
+            "time": 1719763244
+          },
+          {
+            "submissionId": 268187694,
+            "verdict": "OK",
+            "time": 1719763141
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "Devanshu-Sharma",
+    "skippedContests": [
+      {
+        "contestId": 1933,
+        "submissions": [
+          {
+            "submissionId": 252424216,
+            "verdict": "OK",
+            "time": 1710928309
+          },
+          {
+            "submissionId": 249740201,
+            "verdict": "OK",
+            "time": 1709646840
+          },
+          {
+            "submissionId": 249336274,
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "time": 1709392614
+          },
+          {
+            "submissionId": 248609258,
+            "verdict": "SKIPPED",
+            "time": 1709050552
+          },
+          {
+            "submissionId": 248579587,
+            "verdict": "SKIPPED",
+            "time": 1709048381
+          },
+          {
+            "submissionId": 248557066,
+            "verdict": "SKIPPED",
+            "time": 1709047037
+          },
+          {
+            "submissionId": 248551201,
+            "verdict": "SKIPPED",
+            "time": 1709046720
+          },
+          {
+            "submissionId": 248544671,
+            "verdict": "SKIPPED",
+            "time": 1709046390
+          }
+        ]
+      },
+      {
+        "contestId": 1934,
+        "submissions": [
+          {
+            "submissionId": 250009084,
+            "verdict": "OK",
+            "time": 1709772889
+          },
+          {
+            "submissionId": 249133703,
+            "verdict": "SKIPPED",
+            "time": 1709306886
+          },
+          {
+            "submissionId": 249110721,
+            "verdict": "SKIPPED",
+            "time": 1709304475
+          }
+        ]
+      },
+      {
+        "contestId": 1969,
+        "submissions": [
+          {
+            "submissionId": 259733244,
+            "verdict": "OK",
+            "time": 1714990879
+          },
+          {
+            "submissionId": 259733149,
+            "verdict": "OK",
+            "time": 1714990828
+          },
+          {
+            "submissionId": 258754386,
+            "verdict": "SKIPPED",
+            "time": 1714406894
+          },
+          {
+            "submissionId": 258753739,
+            "verdict": "SKIPPED",
+            "time": 1714406798
+          },
+          {
+            "submissionId": 258745390,
+            "verdict": "SKIPPED",
+            "time": 1714405536
+          },
+          {
+            "submissionId": 258730653,
+            "verdict": "SKIPPED",
+            "time": 1714403657
+          },
+          {
+            "submissionId": 258730091,
+            "verdict": "SKIPPED",
+            "time": 1714403598
+          },
+          {
+            "submissionId": 258717569,
+            "verdict": "SKIPPED",
+            "time": 1714402377
+          },
+          {
+            "submissionId": 258714565,
+            "verdict": "SKIPPED",
+            "time": 1714402144
+          }
+        ]
+      },
+      {
+        "contestId": 1977,
+        "submissions": [
+          {
+            "submissionId": 263164708,
+            "verdict": "OK",
+            "time": 1716997746
+          },
+          {
+            "submissionId": 262746507,
+            "verdict": "SKIPPED",
+            "time": 1716735907
+          },
+          {
+            "submissionId": 262729395,
+            "verdict": "SKIPPED",
+            "time": 1716734558
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "rameshdange5191",
+    "skippedContests": [
+      {
+        "contestId": 1953,
+        "submissions": [
+          {
+            "submissionId": 262275154,
+            "verdict": "PARTIAL",
+            "time": 1716475575
+          },
+          {
+            "submissionId": 262211407,
+            "verdict": "SKIPPED",
+            "time": 1716433815
+          },
+          {
+            "submissionId": 262211003,
+            "verdict": "SKIPPED",
+            "time": 1716433446
+          },
+          {
+            "submissionId": 262096390,
+            "verdict": "SKIPPED",
+            "time": 1716358137
+          },
+          {
+            "submissionId": 262095872,
+            "verdict": "SKIPPED",
+            "time": 1716357859
+          },
+          {
+            "submissionId": 262077671,
+            "verdict": "SKIPPED",
+            "time": 1716345470
+          },
+          {
+            "submissionId": 262075813,
+            "verdict": "SKIPPED",
+            "time": 1716344211
+          },
+          {
+            "submissionId": 262075698,
+            "verdict": "SKIPPED",
+            "time": 1716344048
+          },
+          {
+            "submissionId": 262016718,
+            "verdict": "SKIPPED",
+            "time": 1716294847
+          },
+          {
+            "submissionId": 262013194,
+            "verdict": "SKIPPED",
+            "time": 1716293504
+          },
+          {
+            "submissionId": 262012136,
+            "verdict": "SKIPPED",
+            "time": 1716293106
+          },
+          {
+            "submissionId": 262004160,
+            "verdict": "SKIPPED",
+            "time": 1716289881
+          },
+          {
+            "submissionId": 261973188,
+            "verdict": "SKIPPED",
+            "time": 1716274836
+          },
+          {
+            "submissionId": 261970618,
+            "verdict": "SKIPPED",
+            "time": 1716273046
+          },
+          {
+            "submissionId": 261970407,
+            "verdict": "SKIPPED",
+            "time": 1716272889
+          },
+          {
+            "submissionId": 261967682,
+            "verdict": "SKIPPED",
+            "time": 1716270710
+          },
+          {
+            "submissionId": 261966968,
+            "verdict": "SKIPPED",
+            "time": 1716270089
+          },
+          {
+            "submissionId": 261963143,
+            "verdict": "SKIPPED",
+            "time": 1716266977
+          },
+          {
+            "submissionId": 261959763,
+            "verdict": "SKIPPED",
+            "time": 1716264490
+          },
+          {
+            "submissionId": 261959007,
+            "verdict": "SKIPPED",
+            "time": 1716263919
+          },
+          {
+            "submissionId": 261958777,
+            "verdict": "SKIPPED",
+            "time": 1716263744
+          },
+          {
+            "submissionId": 261958211,
+            "verdict": "SKIPPED",
+            "time": 1716263313
+          },
+          {
+            "submissionId": 261957916,
+            "verdict": "SKIPPED",
+            "time": 1716263098
+          },
+          {
+            "submissionId": 261957357,
+            "verdict": "SKIPPED",
+            "time": 1716262699
+          },
+          {
+            "submissionId": 261957039,
+            "verdict": "SKIPPED",
+            "time": 1716262490
+          },
+          {
+            "submissionId": 261952525,
+            "verdict": "SKIPPED",
+            "time": 1716259023
+          },
+          {
+            "submissionId": 261952453,
+            "verdict": "SKIPPED",
+            "time": 1716258962
+          },
+          {
+            "submissionId": 261804774,
+            "verdict": "SKIPPED",
+            "time": 1716216413
+          },
+          {
+            "submissionId": 261794824,
+            "verdict": "SKIPPED",
+            "time": 1716215811
+          },
+          {
+            "submissionId": 261742971,
+            "verdict": "SKIPPED",
+            "time": 1716192740
+          },
+          {
+            "submissionId": 261742386,
+            "verdict": "SKIPPED",
+            "time": 1716192421
+          },
+          {
+            "submissionId": 261738849,
+            "verdict": "SKIPPED",
+            "time": 1716191764
+          },
+          {
+            "submissionId": 261735304,
+            "verdict": "SKIPPED",
+            "time": 1716189762
+          },
+          {
+            "submissionId": 261535497,
+            "verdict": "SKIPPED",
+            "time": 1716038663
+          },
+          {
+            "submissionId": 261533012,
+            "verdict": "SKIPPED",
+            "time": 1716037168
+          },
+          {
+            "submissionId": 261517629,
+            "verdict": "SKIPPED",
+            "time": 1716029699
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "Suyash_R10",
+    "skippedContests": [
+      {
+        "contestId": 1764,
+        "submissions": [
+          {
+            "submissionId": 182698358,
+            "verdict": "OK",
+            "time": 1669480178
+          },
+          {
+            "submissionId": 182697648,
+            "verdict": "WRONG_ANSWER",
+            "time": 1669479997
+          },
+          {
+            "submissionId": 182694741,
+            "verdict": "WRONG_ANSWER",
+            "time": 1669479174
+          },
+          {
+            "submissionId": 182690817,
+            "verdict": "SKIPPED",
+            "time": 1669478039
+          },
+          {
+            "submissionId": 182661253,
+            "verdict": "OK",
+            "time": 1669472331
+          },
+          {
+            "submissionId": 182654482,
+            "verdict": "OK",
+            "time": 1669471707
+          }
+        ]
+      },
+      {
+        "contestId": 1778,
+        "submissions": [
+          {
+            "submissionId": 191577596,
+            "verdict": "OK",
+            "time": 1675264857
+          },
+          {
+            "submissionId": 191577402,
+            "verdict": "SKIPPED",
+            "time": 1675264828
+          },
+          {
+            "submissionId": 191576581,
+            "verdict": "WRONG_ANSWER",
+            "time": 1675264718
+          },
+          {
+            "submissionId": 191575498,
+            "verdict": "WRONG_ANSWER",
+            "time": 1675264574
+          },
+          {
+            "submissionId": 191554540,
+            "verdict": "OK",
+            "time": 1675262648
+          },
+          {
+            "submissionId": 191553409,
+            "verdict": "WRONG_ANSWER",
+            "time": 1675262607
+          },
+          {
+            "submissionId": 191551262,
+            "verdict": "WRONG_ANSWER",
+            "time": 1675262488
+          },
+          {
+            "submissionId": 191549074,
+            "verdict": "WRONG_ANSWER",
+            "time": 1675262402
+          },
+          {
+            "submissionId": 191547401,
+            "verdict": "WRONG_ANSWER",
+            "time": 1675262327
+          }
+        ]
+      },
+      {
+        "contestId": 1787,
+        "submissions": [
+          {
+            "submissionId": 191142901,
+            "verdict": "OK",
+            "time": 1675008144
+          },
+          {
+            "submissionId": 191141461,
+            "verdict": "SKIPPED",
+            "time": 1675007812
+          },
+          {
+            "submissionId": 191109886,
+            "verdict": "OK",
+            "time": 1675003234
+          }
+        ]
+      },
+      {
+        "contestId": 1853,
+        "submissions": [
+          {
+            "submissionId": 215295470,
+            "verdict": "OK",
+            "time": 1690169610
+          },
+          {
+            "submissionId": 215222166,
+            "verdict": "OK",
+            "time": 1690126036
+          },
+          {
+            "submissionId": 215219500,
+            "verdict": "SKIPPED",
+            "time": 1690125653
+          },
+          {
+            "submissionId": 215218612,
+            "verdict": "WRONG_ANSWER",
+            "time": 1690125524
+          },
+          {
+            "submissionId": 215194957,
+            "verdict": "OK",
+            "time": 1690123245
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "code_tal",
+    "skippedContests": [
+      {
+        "contestId": 1788,
+        "submissions": [
+          {
+            "submissionId": 192954498,
+            "verdict": "OK",
+            "time": 1675959616
+          },
+          {
+            "submissionId": 192950297,
+            "verdict": "SKIPPED",
+            "time": 1675959062
+          },
+          {
+            "submissionId": 192922870,
+            "verdict": "OK",
+            "time": 1675956241
+          },
+          {
+            "submissionId": 192905437,
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "time": 1675955006
+          },
+          {
+            "submissionId": 192884202,
+            "verdict": "OK",
+            "time": 1675953898
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "adarsh_251",
+    "skippedContests": [
+      {
+        "contestId": 1869,
+        "submissions": [
+          {
+            "submissionId": 222797483,
+            "verdict": "OK",
+            "time": 1694362702
+          },
+          {
+            "submissionId": 222795720,
+            "verdict": "WRONG_ANSWER",
+            "time": 1694362433
+          },
+          {
+            "submissionId": 222759684,
+            "verdict": "OK",
+            "time": 1694357996
+          },
+          {
+            "submissionId": 222759217,
+            "verdict": "WRONG_ANSWER",
+            "time": 1694357947
+          },
+          {
+            "submissionId": 222757407,
+            "verdict": "SKIPPED",
+            "time": 1694357755
+          },
+          {
+            "submissionId": 222743111,
+            "verdict": "OK",
+            "time": 1694356358
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "TarunAga",
+    "skippedContests": [
+      {
+        "contestId": 1694,
+        "submissions": [
+          {
+            "submissionId": 160835791,
+            "verdict": "SKIPPED",
+            "time": 1655390963
+          }
+        ]
+      },
+      {
+        "contestId": 1985,
+        "submissions": [
+          {
+            "submissionId": 265403991,
+            "verdict": "OK",
+            "time": 1718134141
+          },
+          {
+            "submissionId": 265395594,
+            "verdict": "OK",
+            "time": 1718129142
+          },
+          {
+            "submissionId": 265392204,
+            "verdict": "WRONG_ANSWER",
+            "time": 1718127929
+          },
+          {
+            "submissionId": 265370999,
+            "verdict": "SKIPPED",
+            "time": 1718124278
+          },
+          {
+            "submissionId": 265369092,
+            "verdict": "SKIPPED",
+            "time": 1718124087
+          },
+          {
+            "submissionId": 265367542,
+            "verdict": "SKIPPED",
+            "time": 1718123947
+          },
+          {
+            "submissionId": 265318802,
+            "verdict": "SKIPPED",
+            "time": 1718120323
+          },
+          {
+            "submissionId": 265268371,
+            "verdict": "SKIPPED",
+            "time": 1718117821
+          },
+          {
+            "submissionId": 265256216,
+            "verdict": "SKIPPED",
+            "time": 1718117431
+          },
+          {
+            "submissionId": 265231122,
+            "verdict": "SKIPPED",
+            "time": 1718116851
+          },
+          {
+            "submissionId": 265215658,
+            "verdict": "SKIPPED",
+            "time": 1718116624
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "Darthforces",
+    "skippedContests": [
+      {
+        "contestId": 1837,
+        "submissions": [
+          {
+            "submissionId": 243554639,
+            "verdict": "OK",
+            "time": 1706365874
+          },
+          {
+            "submissionId": 219636093,
+            "verdict": "OK",
+            "time": 1692511547
+          },
+          {
+            "submissionId": 207253485,
+            "verdict": "SKIPPED",
+            "time": 1685031727
+          },
+          {
+            "submissionId": 207248249,
+            "verdict": "SKIPPED",
+            "time": 1685031140
+          },
+          {
+            "submissionId": 207223878,
+            "verdict": "SKIPPED",
+            "time": 1685028923
+          },
+          {
+            "submissionId": 207212603,
+            "verdict": "SKIPPED",
+            "time": 1685028114
+          },
+          {
+            "submissionId": 207201313,
+            "verdict": "SKIPPED",
+            "time": 1685027398
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "RJ07",
+    "skippedContests": []
+  },
+  {
+    "userID": "dcode2004",
+    "skippedContests": [
+      {
+        "contestId": 1862,
+        "submissions": [
+          {
+            "submissionId": 220215833,
+            "verdict": "SKIPPED",
+            "time": 1692890359
+          },
+          {
+            "submissionId": 220188035,
+            "verdict": "SKIPPED",
+            "time": 1692888983
+          }
+        ]
+      },
+      {
+        "contestId": 1950,
+        "submissions": [
+          {
+            "submissionId": 253820048,
+            "verdict": "SKIPPED",
+            "time": 1711644873
+          },
+          {
+            "submissionId": 253814990,
+            "verdict": "SKIPPED",
+            "time": 1711644474
+          },
+          {
+            "submissionId": 253766470,
+            "verdict": "SKIPPED",
+            "time": 1711641173
+          },
+          {
+            "submissionId": 253751145,
+            "verdict": "SKIPPED",
+            "time": 1711640397
+          },
+          {
+            "submissionId": 253705439,
+            "verdict": "SKIPPED",
+            "time": 1711638660
+          },
+          {
+            "submissionId": 253678549,
+            "verdict": "SKIPPED",
+            "time": 1711637789
+          },
+          {
+            "submissionId": 253654475,
+            "verdict": "SKIPPED",
+            "time": 1711637269
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "euphoria09",
+    "skippedContests": []
+  },
+  {
+    "userID": "Panda_codes",
+    "skippedContests": [
+      {
+        "contestId": 1881,
+        "submissions": [
+          {
+            "submissionId": 244530159,
+            "verdict": "OK",
+            "time": 1706871105
+          },
+          {
+            "submissionId": 244530081,
+            "verdict": "COMPILATION_ERROR",
+            "time": 1706871055
+          },
+          {
+            "submissionId": 244528911,
+            "verdict": "MEMORY_LIMIT_EXCEEDED",
+            "time": 1706870378
+          },
+          {
+            "submissionId": 244528867,
+            "verdict": "COMPILATION_ERROR",
+            "time": 1706870352
+          },
+          {
+            "submissionId": 244528759,
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "time": 1706870284
+          },
+          {
+            "submissionId": 227888444,
+            "verdict": "SKIPPED",
+            "time": 1697125765
+          },
+          {
+            "submissionId": 227886811,
+            "verdict": "SKIPPED",
+            "time": 1697125622
+          },
+          {
+            "submissionId": 227878597,
+            "verdict": "SKIPPED",
+            "time": 1697124917
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "aishwarykesarwani",
+    "skippedContests": []
+  },
+  {
+    "userID": "Punpun018",
+    "skippedContests": [
+      {
+        "contestId": 1846,
+        "submissions": [
+          {
+            "submissionId": 212684610,
+            "verdict": "SKIPPED",
+            "time": 1688747811
+          },
+          {
+            "submissionId": 212683961,
+            "verdict": "SKIPPED",
+            "time": 1688747764
+          },
+          {
+            "submissionId": 212679859,
+            "verdict": "SKIPPED",
+            "time": 1688747448
+          },
+          {
+            "submissionId": 212676800,
+            "verdict": "SKIPPED",
+            "time": 1688747215
+          },
+          {
+            "submissionId": 212652719,
+            "verdict": "SKIPPED",
+            "time": 1688745399
+          },
+          {
+            "submissionId": 212644600,
+            "verdict": "SKIPPED",
+            "time": 1688744835
+          },
+          {
+            "submissionId": 212609332,
+            "verdict": "SKIPPED",
+            "time": 1688742630
+          },
+          {
+            "submissionId": 212597388,
+            "verdict": "SKIPPED",
+            "time": 1688741969
+          },
+          {
+            "submissionId": 212572643,
+            "verdict": "SKIPPED",
+            "time": 1688740806
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "RahulHarpal",
+    "skippedContests": []
+  },
+  {
+    "userID": "Tushar444",
+    "skippedContests": []
+  },
+  {
+    "userID": "Pranjal_Jain2310",
+    "skippedContests": []
+  },
+  {
+    "userID": "aayush249",
+    "skippedContests": []
+  },
+  {
+    "userID": "Krutish_Raval",
+    "skippedContests": []
+  },
+  {
+    "userID": "Piri.Piri",
+    "skippedContests": [
+      {
+        "contestId": 1976,
+        "submissions": [
+          {
+            "submissionId": 263359015,
+            "verdict": "SKIPPED",
+            "time": 1717086853
+          },
+          {
+            "submissionId": 263356190,
+            "verdict": "SKIPPED",
+            "time": 1717086561
+          },
+          {
+            "submissionId": 263354706,
+            "verdict": "SKIPPED",
+            "time": 1717086387
+          },
+          {
+            "submissionId": 263343749,
+            "verdict": "SKIPPED",
+            "time": 1717085070
+          },
+          {
+            "submissionId": 263342868,
+            "verdict": "SKIPPED",
+            "time": 1717084969
+          },
+          {
+            "submissionId": 263341785,
+            "verdict": "SKIPPED",
+            "time": 1717084852
+          },
+          {
+            "submissionId": 263338029,
+            "verdict": "SKIPPED",
+            "time": 1717084443
+          },
+          {
+            "submissionId": 263326428,
+            "verdict": "SKIPPED",
+            "time": 1717083312
+          },
+          {
+            "submissionId": 263325205,
+            "verdict": "SKIPPED",
+            "time": 1717083202
+          },
+          {
+            "submissionId": 263304455,
+            "verdict": "SKIPPED",
+            "time": 1717081661
+          },
+          {
+            "submissionId": 263299014,
+            "verdict": "SKIPPED",
+            "time": 1717081327
+          },
+          {
+            "submissionId": 263296534,
+            "verdict": "SKIPPED",
+            "time": 1717081185
+          },
+          {
+            "submissionId": 263282437,
+            "verdict": "SKIPPED",
+            "time": 1717080474
+          }
+        ]
+      },
+      {
+        "contestId": 1977,
+        "submissions": [
+          {
+            "submissionId": 262741688,
+            "verdict": "SKIPPED",
+            "time": 1716735398
+          },
+          {
+            "submissionId": 262732678,
+            "verdict": "SKIPPED",
+            "time": 1716734815
+          },
+          {
+            "submissionId": 262722319,
+            "verdict": "SKIPPED",
+            "time": 1716734289
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "TunTunMausii",
+    "skippedContests": []
+  },
+  {
+    "userID": "noAnya",
+    "skippedContests": [
+      {
+        "contestId": 1978,
+        "submissions": [
+          {
+            "submissionId": 266065697,
+            "verdict": "OK",
+            "time": 1718544190
+          },
+          {
+            "submissionId": 266065032,
+            "verdict": "OK",
+            "time": 1718543876
+          },
+          {
+            "submissionId": 266015242,
+            "verdict": "OK",
+            "time": 1718532044
+          },
+          {
+            "submissionId": 266012662,
+            "verdict": "WRONG_ANSWER",
+            "time": 1718531757
+          },
+          {
+            "submissionId": 265977281,
+            "verdict": "OK",
+            "time": 1718528968
+          },
+          {
+            "submissionId": 265976576,
+            "verdict": "SKIPPED",
+            "time": 1718528937
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "Sarthak_Dengre",
+    "skippedContests": []
+  },
+  {
+    "userID": "Vishrut_Panya",
+    "skippedContests": []
+  },
+  {
+    "userID": "ansul_18",
+    "skippedContests": []
+  },
+  {
+    "userID": "Vedant_182004",
+    "skippedContests": [
+      {
+        "contestId": 1762,
+        "submissions": [
+          {
+            "submissionId": 185325880,
+            "verdict": "SKIPPED",
+            "time": 1671117050
+          }
+        ]
+      },
+      {
+        "contestId": 1772,
+        "submissions": [
+          {
+            "submissionId": 186065938,
+            "verdict": "OK",
+            "time": 1671515855
+          },
+          {
+            "submissionId": 186065838,
+            "verdict": "WRONG_ANSWER",
+            "time": 1671515782
+          },
+          {
+            "submissionId": 186065741,
+            "verdict": "COMPILATION_ERROR",
+            "time": 1671515706
+          },
+          {
+            "submissionId": 186064935,
+            "verdict": "OK",
+            "time": 1671515043
+          },
+          {
+            "submissionId": 185870787,
+            "verdict": "SKIPPED",
+            "time": 1671381662
+          },
+          {
+            "submissionId": 185870070,
+            "verdict": "SKIPPED",
+            "time": 1671381543
+          },
+          {
+            "submissionId": 185851109,
+            "verdict": "SKIPPED",
+            "time": 1671378455
+          },
+          {
+            "submissionId": 185848089,
+            "verdict": "SKIPPED",
+            "time": 1671377998
+          },
+          {
+            "submissionId": 185832889,
+            "verdict": "SKIPPED",
+            "time": 1671376136
+          },
+          {
+            "submissionId": 185827733,
+            "verdict": "SKIPPED",
+            "time": 1671375658
+          },
+          {
+            "submissionId": 185825402,
+            "verdict": "SKIPPED",
+            "time": 1671375467
+          },
+          {
+            "submissionId": 185811916,
+            "verdict": "SKIPPED",
+            "time": 1671374609
+          }
+        ]
+      },
+      {
+        "contestId": 1788,
+        "submissions": [
+          {
+            "submissionId": 192920578,
+            "verdict": "SKIPPED",
+            "time": 1675956053
+          },
+          {
+            "submissionId": 192919862,
+            "verdict": "SKIPPED",
+            "time": 1675955996
+          },
+          {
+            "submissionId": 192911691,
+            "verdict": "SKIPPED",
+            "time": 1675955401
+          }
+        ]
+      },
+      {
+        "contestId": 1791,
+        "submissions": [
+          {
+            "submissionId": 192228638,
+            "verdict": "OK",
+            "time": 1675572913
+          },
+          {
+            "submissionId": 192228590,
+            "verdict": "COMPILATION_ERROR",
+            "time": 1675572864
+          },
+          {
+            "submissionId": 192228568,
+            "verdict": "OK",
+            "time": 1675572836
+          },
+          {
+            "submissionId": 192228524,
+            "verdict": "OK",
+            "time": 1675572786
+          },
+          {
+            "submissionId": 192031358,
+            "verdict": "SKIPPED",
+            "time": 1675443177
+          },
+          {
+            "submissionId": 192027548,
+            "verdict": "SKIPPED",
+            "time": 1675442901
+          },
+          {
+            "submissionId": 191991371,
+            "verdict": "SKIPPED",
+            "time": 1675440686
+          },
+          {
+            "submissionId": 191984454,
+            "verdict": "SKIPPED",
+            "time": 1675440265
+          },
+          {
+            "submissionId": 191957709,
+            "verdict": "SKIPPED",
+            "time": 1675438749
+          },
+          {
+            "submissionId": 191916481,
+            "verdict": "SKIPPED",
+            "time": 1675436683
+          },
+          {
+            "submissionId": 191891910,
+            "verdict": "SKIPPED",
+            "time": 1675435829
+          },
+          {
+            "submissionId": 191860599,
+            "verdict": "SKIPPED",
+            "time": 1675435167
+          }
+        ]
+      },
+      {
+        "contestId": 1948,
+        "submissions": [
+          {
+            "submissionId": 251482292,
+            "verdict": "SKIPPED",
+            "time": 1710516144
+          },
+          {
+            "submissionId": 251439501,
+            "verdict": "SKIPPED",
+            "time": 1710514137
+          },
+          {
+            "submissionId": 251430003,
+            "verdict": "SKIPPED",
+            "time": 1710513838
+          },
+          {
+            "submissionId": 251417697,
+            "verdict": "SKIPPED",
+            "time": 1710513436
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "HardikMakkar",
+    "skippedContests": [
+      {
+        "contestId": 1847,
+        "submissions": [
+          {
+            "submissionId": 212405612,
+            "verdict": "OK",
+            "time": 1688656913
+          },
+          {
+            "submissionId": 212403337,
+            "verdict": "SKIPPED",
+            "time": 1688656705
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "meetjpatel017",
+    "skippedContests": [
+      {
+        "contestId": 1916,
+        "submissions": [
+          {
+            "submissionId": 255524186,
+            "verdict": "OK",
+            "time": 1712512506
+          },
+          {
+            "submissionId": 239884694,
+            "verdict": "OK",
+            "time": 1704113341
+          },
+          {
+            "submissionId": 239707540,
+            "verdict": "SKIPPED",
+            "time": 1703954139
+          },
+          {
+            "submissionId": 239707149,
+            "verdict": "SKIPPED",
+            "time": 1703954093
+          },
+          {
+            "submissionId": 239696610,
+            "verdict": "SKIPPED",
+            "time": 1703952852
+          },
+          {
+            "submissionId": 239682109,
+            "verdict": "SKIPPED",
+            "time": 1703951372
+          },
+          {
+            "submissionId": 239672406,
+            "verdict": "SKIPPED",
+            "time": 1703950546
+          },
+          {
+            "submissionId": 239659675,
+            "verdict": "SKIPPED",
+            "time": 1703949652
+          },
+          {
+            "submissionId": 239657756,
+            "verdict": "SKIPPED",
+            "time": 1703949540
+          }
+        ]
+      },
+      {
+        "contestId": 1950,
+        "submissions": [
+          {
+            "submissionId": 253778711,
+            "verdict": "SKIPPED",
+            "time": 1711641851
+          },
+          {
+            "submissionId": 253706551,
+            "verdict": "SKIPPED",
+            "time": 1711638696
+          },
+          {
+            "submissionId": 253673703,
+            "verdict": "SKIPPED",
+            "time": 1711637647
+          },
+          {
+            "submissionId": 253652001,
+            "verdict": "SKIPPED",
+            "time": 1711637241
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "RizTrey",
+    "skippedContests": []
+  },
+  {
+    "userID": "dp177",
+    "skippedContests": []
+  },
+  {
+    "userID": "akshay0001",
+    "skippedContests": []
+  },
+  {
+    "userID": "keshav15104",
+    "skippedContests": []
+  },
+  {
+    "userID": "AyushMiglani",
+    "skippedContests": [
+      {
+        "contestId": 1944,
+        "submissions": [
+          {
+            "submissionId": 251785354,
+            "verdict": "SKIPPED",
+            "time": 1710607266
+          },
+          {
+            "submissionId": 251782626,
+            "verdict": "SKIPPED",
+            "time": 1710606892
+          },
+          {
+            "submissionId": 251781632,
+            "verdict": "SKIPPED",
+            "time": 1710606760
+          },
+          {
+            "submissionId": 251780792,
+            "verdict": "SKIPPED",
+            "time": 1710606649
+          },
+          {
+            "submissionId": 251723131,
+            "verdict": "SKIPPED",
+            "time": 1710601182
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "sudipjana048",
+    "skippedContests": [
+      {
+        "contestId": 1981,
+        "submissions": [
+          {
+            "submissionId": 263481200,
+            "verdict": "OK",
+            "time": 1717154873
+          },
+          {
+            "submissionId": 263480070,
+            "verdict": "SKIPPED",
+            "time": 1717154686
+          },
+          {
+            "submissionId": 263462734,
+            "verdict": "WRONG_ANSWER",
+            "time": 1717151802
+          },
+          {
+            "submissionId": 263451803,
+            "verdict": "OK",
+            "time": 1717150455
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "err0r_4O3",
+    "skippedContests": [
+      {
+        "contestId": 1768,
+        "submissions": [
+          {
+            "submissionId": 188091016,
+            "verdict": "OK",
+            "time": 1672932497
+          },
+          {
+            "submissionId": 188077316,
+            "verdict": "SKIPPED",
+            "time": 1672931153
+          },
+          {
+            "submissionId": 188069988,
+            "verdict": "SKIPPED",
+            "time": 1672930528
+          }
+        ]
+      },
+      {
+        "contestId": 1779,
+        "submissions": [
+          {
+            "submissionId": 187816643,
+            "verdict": "OK",
+            "time": 1672763167
+          },
+          {
+            "submissionId": 187811393,
+            "verdict": "OK",
+            "time": 1672762475
+          },
+          {
+            "submissionId": 187806807,
+            "verdict": "WRONG_ANSWER",
+            "time": 1672761915
+          },
+          {
+            "submissionId": 187778560,
+            "verdict": "WRONG_ANSWER",
+            "time": 1672759341
+          },
+          {
+            "submissionId": 187757231,
+            "verdict": "SKIPPED",
+            "time": 1672758122
+          }
+        ]
+      },
+      {
+        "contestId": 1798,
+        "submissions": [
+          {
+            "submissionId": 199325716,
+            "verdict": "OK",
+            "time": 1679860031
+          },
+          {
+            "submissionId": 199289473,
+            "verdict": "SKIPPED",
+            "time": 1679846117
+          },
+          {
+            "submissionId": 199278631,
+            "verdict": "SKIPPED",
+            "time": 1679844528
+          },
+          {
+            "submissionId": 199258846,
+            "verdict": "SKIPPED",
+            "time": 1679842127
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "burhan_vora",
+    "skippedContests": [
+      {
+        "contestId": 1973,
+        "submissions": [
+          {
+            "submissionId": 261394376,
+            "verdict": "SKIPPED",
+            "time": 1715961697
+          },
+          {
+            "submissionId": 261390051,
+            "verdict": "SKIPPED",
+            "time": 1715961128
+          },
+          {
+            "submissionId": 261387387,
+            "verdict": "SKIPPED",
+            "time": 1715960793
+          },
+          {
+            "submissionId": 261382295,
+            "verdict": "SKIPPED",
+            "time": 1715960174
+          },
+          {
+            "submissionId": 261381534,
+            "verdict": "SKIPPED",
+            "time": 1715960085
+          },
+          {
+            "submissionId": 261373934,
+            "verdict": "SKIPPED",
+            "time": 1715959252
+          },
+          {
+            "submissionId": 261357232,
+            "verdict": "SKIPPED",
+            "time": 1715957769
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "ByteMeDude",
+    "skippedContests": []
+  },
+  {
+    "userID": "vanshrl9ine",
+    "skippedContests": [
+      {
+        "contestId": 1649,
+        "submissions": [
+          {
+            "submissionId": 148561980,
+            "verdict": "SKIPPED",
+            "time": 1646562269
+          },
+          {
+            "submissionId": 148556294,
+            "verdict": "SKIPPED",
+            "time": 1646561728
+          },
+          {
+            "submissionId": 148542494,
+            "verdict": "SKIPPED",
+            "time": 1646560760
+          }
+        ]
+      },
+      {
+        "contestId": 1696,
+        "submissions": [
+          {
+            "submissionId": 162031748,
+            "verdict": "OK",
+            "time": 1656410160
+          },
+          {
+            "submissionId": 161842373,
+            "verdict": "OK",
+            "time": 1656231862
+          },
+          {
+            "submissionId": 161842337,
+            "verdict": "WRONG_ANSWER",
+            "time": 1656231829
+          },
+          {
+            "submissionId": 161842289,
+            "verdict": "WRONG_ANSWER",
+            "time": 1656231804
+          },
+          {
+            "submissionId": 161784872,
+            "verdict": "SKIPPED",
+            "time": 1656173200
+          },
+          {
+            "submissionId": 161780638,
+            "verdict": "SKIPPED",
+            "time": 1656172388
+          },
+          {
+            "submissionId": 161748829,
+            "verdict": "SKIPPED",
+            "time": 1656168685
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "hecker_7740",
+    "skippedContests": []
+  },
+  {
+    "userID": "De1m0S",
+    "skippedContests": []
+  },
+  {
+    "userID": "Tushar_ag08",
+    "skippedContests": []
+  },
+  {
+    "userID": "devansh19",
+    "skippedContests": []
+  },
+  {
+    "userID": "lord_of_crime",
+    "skippedContests": []
+  },
+  {
+    "userID": "Vedant-Baldwa",
+    "skippedContests": [
+      {
+        "contestId": 1950,
+        "submissions": [
+          {
+            "submissionId": 254830672,
+            "verdict": "OK",
+            "time": 1712142949
+          },
+          {
+            "submissionId": 254830557,
+            "verdict": "WRONG_ANSWER",
+            "time": 1712142886
+          },
+          {
+            "submissionId": 254826658,
+            "verdict": "OK",
+            "time": 1712140650
+          },
+          {
+            "submissionId": 254434043,
+            "verdict": "OK",
+            "time": 1711972255
+          },
+          {
+            "submissionId": 253821762,
+            "verdict": "SKIPPED",
+            "time": 1711645003
+          },
+          {
+            "submissionId": 253802197,
+            "verdict": "SKIPPED",
+            "time": 1711643437
+          },
+          {
+            "submissionId": 253795583,
+            "verdict": "SKIPPED",
+            "time": 1711642958
+          },
+          {
+            "submissionId": 253719564,
+            "verdict": "SKIPPED",
+            "time": 1711639123
+          },
+          {
+            "submissionId": 253707075,
+            "verdict": "SKIPPED",
+            "time": 1711638713
+          },
+          {
+            "submissionId": 253687930,
+            "verdict": "SKIPPED",
+            "time": 1711638082
+          },
+          {
+            "submissionId": 253652401,
+            "verdict": "SKIPPED",
+            "time": 1711637245
+          }
+        ]
+      },
+      {
+        "contestId": 1956,
+        "submissions": [
+          {
+            "submissionId": 256522240,
+            "verdict": "SKIPPED",
+            "time": 1713023951
+          },
+          {
+            "submissionId": 256515012,
+            "verdict": "SKIPPED",
+            "time": 1713022957
+          },
+          {
+            "submissionId": 256512057,
+            "verdict": "SKIPPED",
+            "time": 1713022591
+          },
+          {
+            "submissionId": 256501861,
+            "verdict": "SKIPPED",
+            "time": 1713021422
+          },
+          {
+            "submissionId": 256494940,
+            "verdict": "SKIPPED",
+            "time": 1713020748
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "Harsh_Koringa_",
+    "skippedContests": []
+  },
+  {
+    "userID": "aniketaslaliya",
+    "skippedContests": [
+      {
+        "contestId": 1926,
+        "submissions": [
+          {
+            "submissionId": 247323846,
+            "verdict": "SKIPPED",
+            "time": 1708357858
+          },
+          {
+            "submissionId": 247308665,
+            "verdict": "SKIPPED",
+            "time": 1708356817
+          },
+          {
+            "submissionId": 247234288,
+            "verdict": "SKIPPED",
+            "time": 1708353560
+          }
+        ]
+      },
+      {
+        "contestId": 1927,
+        "submissions": [
+          {
+            "submissionId": 255575517,
+            "verdict": "OK",
+            "time": 1712556324
+          },
+          {
+            "submissionId": 249398353,
+            "verdict": "OK",
+            "time": 1709438223
+          },
+          {
+            "submissionId": 245215221,
+            "verdict": "SKIPPED",
+            "time": 1707237751
+          },
+          {
+            "submissionId": 245158623,
+            "verdict": "SKIPPED",
+            "time": 1707233898
+          },
+          {
+            "submissionId": 245138458,
+            "verdict": "SKIPPED",
+            "time": 1707232875
+          },
+          {
+            "submissionId": 245100457,
+            "verdict": "SKIPPED",
+            "time": 1707231367
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "conturna",
+    "skippedContests": []
+  },
+  {
+    "userID": "diya_ghodasara",
+    "skippedContests": []
+  },
+  {
+    "userID": "Shivvv24122004123",
+    "skippedContests": [
+      {
+        "contestId": 1982,
+        "submissions": [
+          {
+            "submissionId": 267355005,
+            "verdict": "SKIPPED",
+            "time": 1719328193
+          },
+          {
+            "submissionId": 267339719,
+            "verdict": "SKIPPED",
+            "time": 1719326980
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "blackswan_23",
+    "skippedContests": []
+  },
+  {
+    "userID": "Aadi2316",
+    "skippedContests": []
+  },
+  {
+    "userID": "shaharyan729",
+    "skippedContests": []
+  },
+  {
+    "userID": "Keshav_950",
+    "skippedContests": []
+  },
+  {
+    "userID": "harshtailor8696",
+    "skippedContests": []
+  },
+  {
+    "userID": "anukuljain42",
+    "skippedContests": []
+  },
+  {
+    "userID": "MohitAgrawal32",
+    "skippedContests": []
+  },
+  {
+    "userID": "sheesh2",
+    "skippedContests": [
+      {
+        "contestId": 1861,
+        "submissions": [
+          {
+            "submissionId": 221317764,
+            "verdict": "SKIPPED",
+            "time": 1693495785
+          },
+          {
+            "submissionId": 221312304,
+            "verdict": "SKIPPED",
+            "time": 1693495291
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "Ishhhh",
+    "skippedContests": []
+  },
+  {
+    "userID": "guptasankalp2004",
+    "skippedContests": []
+  },
+  {
+    "userID": "Captain_Levi_1",
+    "skippedContests": []
+  },
+  {
+    "userID": "divyanshi_agarwal",
+    "skippedContests": []
+  },
+  {
+    "userID": "hey_dev.ag",
+    "skippedContests": []
+  },
+  {
+    "userID": "_ea_e_",
+    "skippedContests": []
+  },
+  {
+    "userID": "jainarchit529",
+    "skippedContests": []
+  },
+  {
+    "userID": "AUSM1526",
+    "skippedContests": []
+  },
+  {
+    "userID": "Maitreyee_Kulkarni",
+    "skippedContests": []
+  },
+  {
+    "userID": "Mg718",
+    "skippedContests": [
+      {
+        "contestId": 1926,
+        "submissions": [
+          {
+            "submissionId": 247350422,
+            "verdict": "SKIPPED",
+            "time": 1708359994
+          },
+          {
+            "submissionId": 247341700,
+            "verdict": "SKIPPED",
+            "time": 1708359238
+          },
+          {
+            "submissionId": 247299265,
+            "verdict": "SKIPPED",
+            "time": 1708356260
+          },
+          {
+            "submissionId": 247271432,
+            "verdict": "SKIPPED",
+            "time": 1708354830
+          }
+        ]
+      },
+      {
+        "contestId": 1951,
+        "submissions": [
+          {
+            "submissionId": 255332349,
+            "verdict": "SKIPPED",
+            "time": 1712420710
+          },
+          {
+            "submissionId": 255313061,
+            "verdict": "SKIPPED",
+            "time": 1712418337
+          },
+          {
+            "submissionId": 255300962,
+            "verdict": "SKIPPED",
+            "time": 1712417149
+          },
+          {
+            "submissionId": 255291199,
+            "verdict": "SKIPPED",
+            "time": 1712416324
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "Adi_Rocks001",
+    "skippedContests": [
+      {
+        "contestId": 1795,
+        "submissions": [
+          {
+            "submissionId": 193865462,
+            "verdict": "SKIPPED",
+            "time": 1676560249
+          },
+          {
+            "submissionId": 193857445,
+            "verdict": "SKIPPED",
+            "time": 1676559575
+          }
+        ]
+      },
+      {
+        "contestId": 1810,
+        "submissions": [
+          {
+            "submissionId": 199994441,
+            "verdict": "OK",
+            "time": 1680276827
+          },
+          {
+            "submissionId": 199987447,
+            "verdict": "SKIPPED",
+            "time": 1680275912
+          },
+          {
+            "submissionId": 199974616,
+            "verdict": "OK",
+            "time": 1680274511
+          }
+        ]
+      },
+      {
+        "contestId": 1832,
+        "submissions": [
+          {
+            "submissionId": 205594024,
+            "verdict": "SKIPPED",
+            "time": 1683905925
+          },
+          {
+            "submissionId": 205586434,
+            "verdict": "SKIPPED",
+            "time": 1683905032
+          },
+          {
+            "submissionId": 205584557,
+            "verdict": "SKIPPED",
+            "time": 1683904836
+          },
+          {
+            "submissionId": 205561997,
+            "verdict": "SKIPPED",
+            "time": 1683902856
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "Um_dj",
+    "skippedContests": []
+  },
+  {
+    "userID": "Spookyyy",
+    "skippedContests": []
+  },
+  {
+    "userID": "flicktoss",
+    "skippedContests": []
+  },
+  {
+    "userID": "Arnay",
+    "skippedContests": []
+  },
+  {
+    "userID": "shreyanshdangi464",
+    "skippedContests": []
+  },
+  {
+    "userID": "Harshvardhan10092004",
+    "skippedContests": []
+  },
+  {
+    "userID": "Harita_paliwal",
+    "skippedContests": []
+  },
+  {
+    "userID": "nit.nitish02",
+    "skippedContests": []
+  },
+  {
+    "userID": "vedicgoyal",
+    "skippedContests": []
+  },
+  {
+    "userID": "vyom2022",
+    "skippedContests": []
+  },
+  {
+    "userID": "ashika_verma_",
+    "skippedContests": []
+  },
+  {
+    "userID": "tushar_1012",
+    "skippedContests": []
+  },
+  {
+    "userID": "22ucc038",
+    "skippedContests": []
+  },
+  {
+    "userID": "DEV_KHUBANI",
+    "skippedContests": []
+  },
+  {
+    "userID": "AARAVsharma",
+    "skippedContests": []
+  },
+  {
+    "userID": "harshitaa18",
+    "skippedContests": []
+  },
+  {
+    "userID": "MinalAgrawal",
+    "skippedContests": []
+  },
+  {
+    "userID": "Saubhagya234",
+    "skippedContests": []
+  },
+  {
+    "userID": "_xorrr",
+    "skippedContests": [
+      {
+        "contestId": 1982,
+        "submissions": [
+          {
+            "submissionId": 267389162,
+            "verdict": "SKIPPED",
+            "time": 1719331520
+          },
+          {
+            "submissionId": 267384166,
+            "verdict": "SKIPPED",
+            "time": 1719330993
+          },
+          {
+            "submissionId": 267349394,
+            "verdict": "SKIPPED",
+            "time": 1719327719
+          },
+          {
+            "submissionId": 267340921,
+            "verdict": "SKIPPED",
+            "time": 1719327063
+          }
+        ]
+      },
+      {
+        "contestId": 1985,
+        "submissions": [
+          {
+            "submissionId": 265379338,
+            "verdict": "SKIPPED",
+            "time": 1718125089
+          },
+          {
+            "submissionId": 265339888,
+            "verdict": "SKIPPED",
+            "time": 1718121789
+          },
+          {
+            "submissionId": 265324445,
+            "verdict": "SKIPPED",
+            "time": 1718120746
+          },
+          {
+            "submissionId": 265307893,
+            "verdict": "SKIPPED",
+            "time": 1718119660
+          },
+          {
+            "submissionId": 265252923,
+            "verdict": "SKIPPED",
+            "time": 1718117340
+          },
+          {
+            "submissionId": 265229177,
+            "verdict": "SKIPPED",
+            "time": 1718116815
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "Hemant297",
+    "skippedContests": []
+  },
+  {
+    "userID": "adityakhadekar7",
+    "skippedContests": [
+      {
+        "contestId": 1620,
+        "submissions": [
+          {
+            "submissionId": 142004463,
+            "verdict": "OK",
+            "time": 1641650703
+          },
+          {
+            "submissionId": 141980142,
+            "verdict": "WRONG_ANSWER",
+            "time": 1641631784
+          },
+          {
+            "submissionId": 141979817,
+            "verdict": "WRONG_ANSWER",
+            "time": 1641631513
+          },
+          {
+            "submissionId": 141978904,
+            "verdict": "WRONG_ANSWER",
+            "time": 1641630802
+          },
+          {
+            "submissionId": 141970143,
+            "verdict": "WRONG_ANSWER",
+            "time": 1641624622
+          },
+          {
+            "submissionId": 141969696,
+            "verdict": "WRONG_ANSWER",
+            "time": 1641624288
+          },
+          {
+            "submissionId": 139821089,
+            "verdict": "OK",
+            "time": 1639849104
+          },
+          {
+            "submissionId": 139818713,
+            "verdict": "SKIPPED",
+            "time": 1639848776
+          },
+          {
+            "submissionId": 139818126,
+            "verdict": "SKIPPED",
+            "time": 1639848716
+          },
+          {
+            "submissionId": 139817615,
+            "verdict": "SKIPPED",
+            "time": 1639848660
+          },
+          {
+            "submissionId": 139796250,
+            "verdict": "SKIPPED",
+            "time": 1639845648
+          },
+          {
+            "submissionId": 139769562,
+            "verdict": "SKIPPED",
+            "time": 1639842742
+          },
+          {
+            "submissionId": 139768677,
+            "verdict": "SKIPPED",
+            "time": 1639842680
+          }
+        ]
+      },
+      {
+        "contestId": 1622,
+        "submissions": [
+          {
+            "submissionId": 141876855,
+            "verdict": "OK",
+            "time": 1641534700
+          },
+          {
+            "submissionId": 141876788,
+            "verdict": "WRONG_ANSWER",
+            "time": 1641534631
+          },
+          {
+            "submissionId": 141875726,
+            "verdict": "OK",
+            "time": 1641533643
+          },
+          {
+            "submissionId": 140816933,
+            "verdict": "SKIPPED",
+            "time": 1640622516
+          },
+          {
+            "submissionId": 140814934,
+            "verdict": "SKIPPED",
+            "time": 1640622262
+          },
+          {
+            "submissionId": 140773854,
+            "verdict": "SKIPPED",
+            "time": 1640617084
+          },
+          {
+            "submissionId": 140764699,
+            "verdict": "SKIPPED",
+            "time": 1640616425
+          },
+          {
+            "submissionId": 140762625,
+            "verdict": "SKIPPED",
+            "time": 1640616308
+          }
+        ]
+      },
+      {
+        "contestId": 1659,
+        "submissions": [
+          {
+            "submissionId": 182056645,
+            "verdict": "OK",
+            "time": 1669061992
+          },
+          {
+            "submissionId": 153938492,
+            "verdict": "SKIPPED",
+            "time": 1650214166
+          },
+          {
+            "submissionId": 153932442,
+            "verdict": "SKIPPED",
+            "time": 1650212670
+          },
+          {
+            "submissionId": 153930054,
+            "verdict": "SKIPPED",
+            "time": 1650212081
+          },
+          {
+            "submissionId": 153917136,
+            "verdict": "SKIPPED",
+            "time": 1650209535
+          },
+          {
+            "submissionId": 153908222,
+            "verdict": "SKIPPED",
+            "time": 1650208256
+          },
+          {
+            "submissionId": 153901694,
+            "verdict": "SKIPPED",
+            "time": 1650207476
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "KartevSumit",
+    "skippedContests": []
+  },
+  {
+    "userID": "TunTunMausii",
+    "skippedContests": []
+  },
+  {
+    "userID": "Piri.Piri",
+    "skippedContests": [
+      {
+        "contestId": 1976,
+        "submissions": [
+          {
+            "submissionId": 263359015,
+            "verdict": "SKIPPED",
+            "time": 1717086853
+          },
+          {
+            "submissionId": 263356190,
+            "verdict": "SKIPPED",
+            "time": 1717086561
+          },
+          {
+            "submissionId": 263354706,
+            "verdict": "SKIPPED",
+            "time": 1717086387
+          },
+          {
+            "submissionId": 263343749,
+            "verdict": "SKIPPED",
+            "time": 1717085070
+          },
+          {
+            "submissionId": 263342868,
+            "verdict": "SKIPPED",
+            "time": 1717084969
+          },
+          {
+            "submissionId": 263341785,
+            "verdict": "SKIPPED",
+            "time": 1717084852
+          },
+          {
+            "submissionId": 263338029,
+            "verdict": "SKIPPED",
+            "time": 1717084443
+          },
+          {
+            "submissionId": 263326428,
+            "verdict": "SKIPPED",
+            "time": 1717083312
+          },
+          {
+            "submissionId": 263325205,
+            "verdict": "SKIPPED",
+            "time": 1717083202
+          },
+          {
+            "submissionId": 263304455,
+            "verdict": "SKIPPED",
+            "time": 1717081661
+          },
+          {
+            "submissionId": 263299014,
+            "verdict": "SKIPPED",
+            "time": 1717081327
+          },
+          {
+            "submissionId": 263296534,
+            "verdict": "SKIPPED",
+            "time": 1717081185
+          },
+          {
+            "submissionId": 263282437,
+            "verdict": "SKIPPED",
+            "time": 1717080474
+          }
+        ]
+      },
+      {
+        "contestId": 1977,
+        "submissions": [
+          {
+            "submissionId": 262741688,
+            "verdict": "SKIPPED",
+            "time": 1716735398
+          },
+          {
+            "submissionId": 262732678,
+            "verdict": "SKIPPED",
+            "time": 1716734815
+          },
+          {
+            "submissionId": 262722319,
+            "verdict": "SKIPPED",
+            "time": 1716734289
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "Sarthak_Dengre",
+    "skippedContests": []
+  },
+  {
+    "userID": "CODER_KALA",
+    "skippedContests": []
+  },
+  {
+    "userID": "amanjaiswal07",
+    "skippedContests": [
+      {
+        "contestId": 1982,
+        "submissions": [
+          {
+            "submissionId": 267402674,
+            "verdict": "SKIPPED",
+            "time": 1719333063
+          },
+          {
+            "submissionId": 267367862,
+            "verdict": "SKIPPED",
+            "time": 1719329365
+          },
+          {
+            "submissionId": 267342054,
+            "verdict": "SKIPPED",
+            "time": 1719327147
+          }
+        ]
+      },
+      {
+        "contestId": 1986,
+        "submissions": [
+          {
+            "submissionId": 267033775,
+            "verdict": "SKIPPED",
+            "time": 1719157830
+          },
+          {
+            "submissionId": 267026735,
+            "verdict": "SKIPPED",
+            "time": 1719157258
+          },
+          {
+            "submissionId": 266976737,
+            "verdict": "SKIPPED",
+            "time": 1719154539
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "shivam_codes",
+    "skippedContests": [
+      {
+        "contestId": 1982,
+        "submissions": [
+          {
+            "submissionId": 267525092,
+            "verdict": "TIME_LIMIT_EXCEEDED",
+            "time": 1719407897
+          },
+          {
+            "submissionId": 267392909,
+            "verdict": "SKIPPED",
+            "time": 1719331949
+          },
+          {
+            "submissionId": 267387516,
+            "verdict": "SKIPPED",
+            "time": 1719331342
+          },
+          {
+            "submissionId": 267374895,
+            "verdict": "SKIPPED",
+            "time": 1719330038
+          },
+          {
+            "submissionId": 267362357,
+            "verdict": "SKIPPED",
+            "time": 1719328860
+          },
+          {
+            "submissionId": 267334376,
+            "verdict": "SKIPPED",
+            "time": 1719326648
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "Spookyyy",
+    "skippedContests": []
+  },
+  {
+    "userID": "Saviturchauhan21",
+    "skippedContests": []
+  },
+  {
+    "userID": "Gaur_Sahaab",
+    "skippedContests": []
+  },
+  {
+    "userID": "codebreaker12",
+    "skippedContests": []
+  },
+  {
+    "userID": "akk_026",
+    "skippedContests": [
+      {
+        "contestId": 1913,
+        "submissions": [
+          {
+            "submissionId": 237790797,
+            "verdict": "SKIPPED",
+            "time": 1702914480
+          },
+          {
+            "submissionId": 237790241,
+            "verdict": "SKIPPED",
+            "time": 1702914428
+          },
+          {
+            "submissionId": 237782280,
+            "verdict": "SKIPPED",
+            "time": 1702913626
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "userID": "Anshika_a",
+    "skippedContests": []
+  },
+  {
+    "userID": "rishika_parashar",
+    "skippedContests": []
+  },
+  {
+    "userID": "vinitsikri",
+    "skippedContests": []
+  }
+]

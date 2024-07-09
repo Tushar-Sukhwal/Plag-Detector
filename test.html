@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>User Contests</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        padding: 20px;
+      }
+      .user-card {
+        border-radius: 8px;
+        box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+        margin-bottom: 20px;
+        padding: 20px;
+        cursor: pointer;
+      }
+      .user-card h2 {
+        margin-top: 0;
+      }
+      .contest-list {
+        list-style: none;
+        padding: 0;
+        display: none; /* Hide initially */
+      }
+      .contest-item {
+        margin-bottom: 10px;
+        padding: 10px;
+        border-radius: 4px;
+        background-color: #e0e0e0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+      .cheated-profile {
+        background-color: #f8d7da; /* Red background */
+      }
+      .non-cheated-profile {
+        background-color: #d4edda; /* Green background */
+      }
+      .cheated {
+        color: red;
+        font-weight: bold;
+      }
+      .non-cheated {
+        color: green;
+        font-weight: bold;
+      }
+      .show {
+        display: block !important; /* Show the contest list */
+      }
+      #userInput {
+        margin-bottom: 20px;
+      }
+      #userInput input {
+        padding: 5px;
+        margin-right: 10px;
+      }
+      #userInput button {
+        padding: 5px 10px;
+      }
+      #loading {
+        display: none;
+        margin-left: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="userInput">
+      <input
+        type="text"
+        id="username"
+        placeholder="Enter Codeforces username"
+      />
+      <button onclick="fetchUserData()">Fetch User Data</button>
+      <span id="loading">Loading...</span>
+    </div>
+    <div id="app"></div>
+
+    <script>
+      let users = [
+        {
+          userID: "ayushk22",
+          noOfSkipped: 2,
+          contests: [
+            { contestId: 1, cheated: true },
+            { contestId: 2, cheated: false },
+            { contestId: 3, cheated: true },
+          ],
+          noOfNonCheated: 1,
+          noOfCheated: 2,
+        },
+        {
+          userID: "Tushars_07",
+          noOfSkipped: 1,
+          contests: [
+            { contestId: 1, cheated: false },
+            { contestId: 2, cheated: true },
+          ],
+          noOfNonCheated: 1,
+          noOfCheated: 1,
+        },
+      ];
+
+      function renderUsers(data) {
+        data.sort((a, b) => b.noOfCheated - a.noOfCheated);
+
+        const app = document.getElementById("app");
+        app.innerHTML = "";
+
+        data.forEach((user) => {
+          const userCard = document.createElement("div");
+          userCard.classList.add("user-card");
+          userCard.classList.add(
+            user.noOfCheated > 0 ? "cheated-profile" : "non-cheated-profile"
+          );
+
+          const heading = document.createElement("h2");
+          heading.textContent = `User: ${user.userID}`;
+          userCard.appendChild(heading);
+
+          const skippedInfo = document.createElement("p");
+          skippedInfo.textContent = `Skipped Submissions: ${user.noOfSkipped}`;
+          userCard.appendChild(skippedInfo);
+
+          const contestList = document.createElement("ul");
+          contestList.classList.add("contest-list");
+
+          user.contests.forEach((contest) => {
+            const contestItem = document.createElement("li");
+            contestItem.classList.add("contest-item");
+            contestItem.textContent = `Contest ID: ${contest.contestId}`;
+            if (contest.cheated) {
+              contestItem.classList.add("cheated");
+              contestItem.textContent += " - Cheated";
+            } else {
+              contestItem.classList.add("non-cheated");
+              contestItem.textContent += " - Not Cheated";
+            }
+            contestList.appendChild(contestItem);
+          });
+
+          userCard.appendChild(contestList);
+
+          // Add click event listener to toggle contest list visibility
+          userCard.addEventListener("click", function () {
+            contestList.classList.toggle("show");
+          });
+
+          app.appendChild(userCard);
+        });
+      }
+
+      // Initial render
+      renderUsers(users);
+
+      async function fetchUserData() {
+        // ... (fetchUserData function remains unchanged)
+      }
+
+      async function getUserData(handle) {
+        // ... (getUserData function remains unchanged)
+      }
+
+      function processUserData(data, contests) {
+        // ... (processUserData function remains unchanged)
+      }
+
+      function processUsers(contests, users) {
+        // ... (processUsers function remains unchanged)
+      }
+    </script>
+  </body>
+</html>

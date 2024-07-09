@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>User Contests</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    .user-card {
+      border-radius: 8px;
+      box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+      margin-bottom: 20px;
+      padding: 20px;
+      cursor: pointer;
+    }
+    .user-card h2 {
+      margin-top: 0;
+    }
+    .contest-list {
+      list-style: none;
+      padding: 0;
+      display: none;
+    }
+    .contest-item {
+      margin-bottom: 10px;
+      padding: 10px;
+      border-radius: 4px;
+      background-color: #e0e0e0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .cheated-profile {
+      background-color: #f8d7da;
+    }
+    .non-cheated-profile {
+      background-color: #d4edda;
+    }
+    .cheated {
+      color: red;
+      font-weight: bold;
+    }
+    .non-cheated {
+      color: green;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div>
+    <label for="username">Enter Codeforces Username: </label>
+    <input type="text" id="username" name="username" />
+    <button onclick="fetchUserData()">Fetch User Data</button>
+  </div>
+  <div id="app"></div>
+
+  <script>
+    function fetchUserData() {
+      const username = document.getElementById('username').value;
+
+      if (!username) {
+        alert('Please enter a username');
+        return;
+      }
+
+      fetch('/fetch-user-data', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ username }),
+      })
+      .then(response => response.json())
+      .then(data => {
+        renderUsers(data);
+      })
+      .catch(error => {
+        console.error('Error:', error);
+      });
+    }
+
+    function renderUsers(data) {
+      data.sort((a, b) => b.noOfCheated - a.noOfCheated);
+
+      const app = document.getElementById("app");
+      app.innerHTML = "";
+
+      data.forEach((user) => {
+        const userCard = document.createElement("div");
+        userCard.classList.add("user-card");
+        userCard.classList.add(
+          user.noOfCheated > 0 ? "cheated-profile" : "non-cheated-profile"
+        );
+
+        const heading = document.createElement("h2");
+        heading.textContent = `User: ${user.userID}`;
+        userCard.appendChild(heading);
+
+        const skippedInfo = document.createElement("p");
+        skippedInfo.textContent = `Skipped Submissions: ${user.noOfSkipped}`;
+        userCard.appendChild(skippedInfo);
+
+        const contestList = document.createElement("ul");
+        contestList.classList.add("contest-list");
+
+        user.contests.forEach((contest) => {
+          const contestItem = document.createElement("li");
+          contestItem.classList.add("contest-item");
+          contestItem.textContent = `Contest ID: ${contest.contestId}`;
+          if (contest.cheated) {
+            contestItem.classList.add("cheated");
+            contestItem.textContent += " - Cheated";
+          } else {
+            contestItem.classList.add("non-cheated");
+            contestItem.textContent += " - Not Cheated";
+          }
+          contestList.appendChild(contestItem);
+        });
+
+        userCard.appendChild(contestList);
+
+        const summary = document.createElement("p");
+        summary.innerHTML = `No. of Cheated Contests: ${user.noOfCheated}<br>No. of Non-Cheated Contests: ${user.noOfNonCheated}`;
+        userCard.appendChild(summary);
+
+        userCard.addEventListener("click", () => {
+          contestList.style.display = contestList.style.display === "none" ? "block" : "none";
+        });
+
+        app.appendChild(userCard);
+      });
+    }
+  </script>
+</body>
+</html>
