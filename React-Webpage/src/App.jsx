@@ -100,14 +100,14 @@ function App() {
       );
       if (contest) {
         const contestEndTime = contest.startTime + contest.duration;
-        let cheated = false;
+        let cheated = true;
 
         skippedContest.submissions.forEach((submission) => {
           if (
             (submission.verdict === "OK" || submission.verdict === "PARTIAL") &&
             submission.time <= contestEndTime
           ) {
-            cheated = true;
+            cheated = false;
           }
         });
 
@@ -193,6 +193,37 @@ function App() {
           </li>
         ))}
       </ul>
+      <div className="mt-8">
+        <p>Made with love by Tushar Sukhwal</p>
+        <p>
+          <a
+            href="https://www.linkedin.com/in/tushar-sukhwal-57463a251/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-500 underline"
+          >
+            LinkedIn
+          </a>{" "}
+          |&nbsp;
+          <a
+            href="https://github.com/Tushar-Sukhwal"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-500 underline"
+          >
+            GitHub
+          </a>{" "}
+          |&nbsp;
+          <a
+            href="https://codeforces.com/profile/Tushars_07"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-500 underline"
+          >
+            Codeforces
+          </a>
+        </p>
+      </div>
     </div>
   );
 }
